@@ -102,64 +102,64 @@
                                 <ul class="navigation clearfix">
                                     <li class="dropdown current"><a href="#">Home</a>
                                         <ul>
-                                            <li><a href="index.html">Home Page 01</a></li>
-                                            <li><a href="index-2.html">Home Page 02</a></li>
-                                            <li><a href="index-3.html">Home Page 03</a></li>
-                                            <li><a href="index-4.html">Home Page 04</a></li>
-                                            <li><a href="index-box-layout.html">Home Boxed Layout</a></li>
-                                            <li><a href="index-rtl.html">Home RTL</a></li>
-                                            <li><a href="index-onepage.html">Home OnePage</a></li>
+                                            <li><a href="index.php">Home Page 01</a></li>
+                                            <li><a href="index-2.php">Home Page 02</a></li>
+                                            <li><a href="index-3.php">Home Page 03</a></li>
+                                            <li><a href="index-4.php">Home Page 04</a></li>
+                                            <li><a href="index-box-layout.php">Home Boxed Layout</a></li>
+                                            <li><a href="index-rtl.php">Home RTL</a></li>
+                                            <li><a href="index-onepage.php">Home OnePage</a></li>
                                             <li class="dropdown"><a href="#">Header Styles</a>
                                                 <ul>
-                                                    <li><a href="index.html">Header Style One</a></li>
-                                                    <li><a href="index-2.html">Header Style Two</a></li>
-                                                    <li><a href="index-3.html">Header Style Three</a></li>
-                                                    <li><a href="index-4.html">Header Style Four</a></li>
+                                                    <li><a href="index.php">Header Style One</a></li>
+                                                    <li><a href="index-2.php">Header Style Two</a></li>
+                                                    <li><a href="index-3.php">Header Style Three</a></li>
+                                                    <li><a href="index-4.php">Header Style Four</a></li>
                                                 </ul>    
                                             </li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="#">Coaching</a>
                                         <ul>
-                                            <li><a href="coaching.html">View All Coaching</a></li>
-                                            <li><a href="coaching-ielts.html">IELTS Coaching</a></li>
-                                            <li><a href="coaching-pte.html">PTE Coaching</a></li>
-                                            <li><a href="coaching-toefl.html">TOEFL</a></li>
-                                            <li><a href="coaching-graduate.html">Graduate Re-Exam</a></li>
-                                            <li><a href="coaching-scholastic.html">Scholastic Apti</a></li>
-                                            <li><a href="coaching-management.html">Management Test</a></li>
+                                            <li><a href="coaching.php">View All Coaching</a></li>
+                                            <li><a href="coaching-ielts.php">IELTS Coaching</a></li>
+                                            <li><a href="coaching-pte.php">PTE Coaching</a></li>
+                                            <li><a href="coaching-toefl.php">TOEFL</a></li>
+                                            <li><a href="coaching-graduate.php">Graduate Re-Exam</a></li>
+                                            <li><a href="coaching-scholastic.php">Scholastic Apti</a></li>
+                                            <li><a href="coaching-management.php">Management Test</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="#">Visa</a>
                                         <ul>
                                             <li><a href="visa.html">View All Visa</a></li>
-                                            <li><a href="visa-student.html">Student Visa</a></li>
-                                            <li><a href="visa-business.html">Business Visa</a></li>
-                                            <li><a href="visa-job.html">Job Seeker Visa</a></li>
-                                            <li><a href="visa-tourist.html">Tourist Visa</a></li>
-                                            <li><a href="visa-consular.html">Consular Closings</a></li>
-                                            <li><a href="visa-diplomatic.html">Diplomatic Visa</a></li>
-                                            <li><a href="visa-family.html">Family Visa</a></li>
-                                            <li><a href="visa-transit.html">Transit Visa</a></li>
-                                            <li><a href="visa-migrate.html">Migrate Visa</a></li>
+                                            <li><a href="visa-student.php">Student Visa</a></li>
+                                            <li><a href="visa-business.php">Business Visa</a></li>
+                                            <li><a href="visa-job.php">Job Seeker Visa</a></li>
+                                            <li><a href="visa-tourist.php">Tourist Visa</a></li>
+                                            <li><a href="visa-consular.php">Consular Closings</a></li>
+                                            <li><a href="visa-diplomatic.php">Diplomatic Visa</a></li>
+                                            <li><a href="visa-family.php">Family Visa</a></li>
+                                            <li><a href="visa-transit.php">Transit Visa</a></li>
+                                            <li><a href="visa-migrate.php">Migrate Visa</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="countery.html">Countery</a></li>
+                                    <li><a href="countery.php">Countery</a></li>
                                     <li class="dropdown"><a href="#">Pages</a>
                                         <ul class="megamenu">
-                                            <li><a href="about.html">About Us</a></li>
-                                            <li><a href="team.html">Our Expert Team</a></li>
-                                            <li><a href="faq.html">Faq’s</a></li>   
+                                            <li><a href="about.php">About Us</a></li>
+                                            <li><a href="team.php">Our Expert Team</a></li>
+                                            <li><a href="faq.php">Faq’s</a></li>   
                                             <li><a href="404-page.html">Error Page</a></li>
                                         </ul>
                                     </li>
                                     <li class="dropdown"><a href="#">Blog</a>
                                     	<ul>
-                                            <li><a href="blog.html">Latest Blog</a></li>
-                                            <li><a href="blog-single.html">Blog Detail</a></li>
+                                            <li><a href="blog.php">Latest Blog</a></li>
+                                            <li><a href="blog-single.php">Blog Detail</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="contact.php">Contact</a></li>
                                 </ul>
                             </div>
                         </nav>                        
