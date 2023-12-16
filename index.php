@@ -161,7 +161,7 @@
                             <div class="icon"><span class="flaticon-technology"></span></div>
                         </div>
                         <div class="text-holder">
-                            <h3><a href="visa-student.html">Student Visa</a></h3>
+                            <h3><a href="visa-student.php">Student Visa</a></h3>
                             <p>Student visa to popular belief. Elementum sapien an pulvinar augue.</p>
                         </div>
                     </div>
@@ -176,7 +176,7 @@
                             <div class="icon"><span class="flaticon-business-1"></span></div>
                         </div>
                         <div class="text-holder">
-                            <h3><a href="visa-business.html">Business Visa</a></h3>
+                            <h3><a href="visa-business.php">Business Visa</a></h3>
                             <p>Business visa to popular belief. Elementum sapien an pulvinar augue.</p>
                         </div>
                     </div>
@@ -191,7 +191,7 @@
                             <div class="icon"><span class="flaticon-electronics"></span></div>
                         </div>
                         <div class="text-holder">
-                            <h3><a href="visa-job.html">Job Seeker Visa</a></h3>
+                            <h3><a href="visa-job.php">Job Seeker Visa</a></h3>
                             <p>Job Seeker visa to popular belief. Elementum sapien an pulvinar augue.</p>
                         </div>
                     </div>
@@ -207,7 +207,7 @@
                             <div class="icon"><span class="flaticon-technology"></span></div>
                         </div>
                         <div class="text-holder">
-                            <h3><a href="visa-student.html">Student Visa</a></h3>
+                            <h3><a href="visa-student.php">Student Visa</a></h3>
                             <p>Student visa to popular belief. Elementum sapien an pulvinar augue.</p>
                         </div>
                     </div>
@@ -237,7 +237,7 @@
                             <div class="icon"><span class="flaticon-electronics"></span></div>
                         </div>
                         <div class="text-holder">
-                            <h3><a href="visa-job.html">Job Seeker Visa</a></h3>
+                            <h3><a href="visa-job.php">Job Seeker Visa</a></h3>
                             <p>Job Seeker visa to popular belief. Elementum sapien an pulvinar augue.</p>
                         </div>
                     </div>
@@ -253,7 +253,7 @@
                             <div class="icon"><span class="flaticon-technology"></span></div>
                         </div>
                         <div class="text-holder">
-                            <h3><a href="visa-student.html">Student Visa</a></h3>
+                            <h3><a href="visa-student.php">Student Visa</a></h3>
                             <p>Student visa to popular belief. Elementum sapien an pulvinar augue.</p>
                         </div>
                     </div>
@@ -268,7 +268,7 @@
                             <div class="icon"><span class="flaticon-business-1"></span></div>
                         </div>
                         <div class="text-holder">
-                            <h3><a href="visa-business.html">Business Visa</a></h3>
+                            <h3><a href="visa-business.php">Business Visa</a></h3>
                             <p>Business visa to popular belief. Elementum sapien an pulvinar augue.</p>
                         </div>
                     </div>
@@ -283,7 +283,7 @@
                             <div class="icon"><span class="flaticon-electronics"></span></div>
                         </div>
                         <div class="text-holder">
-                            <h3><a href="visa-job.html">Job Seeker Visa</a></h3>
+                            <h3><a href="visa-job.php">Job Seeker Visa</a></h3>
                             <p>Job Seeker visa to popular belief. Elementum sapien an pulvinar augue.</p>
                         </div>
                     </div>

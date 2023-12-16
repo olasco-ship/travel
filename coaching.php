@@ -22,7 +22,7 @@
                     </div>
                     <div class="breadcrumb-menu wow slideInDown animated" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <ul class="clearfix">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><i class="fa fa-angle-double-right" aria-hidden="true"></i></li>
                             <li class="active">Coaching</li>
                         </ul>    
@@ -44,7 +44,7 @@
                     <div class="coaching-item-style2-bg" style="background-image: url(assets/images/resources/coaching-item-style2-bg-1.jpg)"></div>
                     <div class="inner">
                         <div class="icon"><span class="flaticon-interface"></span></div>
-                        <h3><a href="coaching-ielts.html">IELTS Coaching</a></h3>
+                        <h3><a href="coaching-ielts.php">IELTS Coaching</a></h3>
                         <p>IELTS Coaching popular belief, Lorem Ipsum is not simply random text.</p>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                     <div class="coaching-item-style2-bg" style="background-image: url(assets/images/resources/coaching-item-style2-bg-1.jpg)"></div>
                     <div class="inner">
                         <div class="icon"><span class="flaticon-avatar"></span></div>
-                        <h3><a href="coaching-pte.html">PTE Coaching</a></h3>
+                        <h3><a href="coaching-pte.php">PTE Coaching</a></h3>
                         <p>PTE Coaching to popular belief, Lorem Ipsum is not simply random text.</p>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
                     <div class="coaching-item-style2-bg" style="background-image: url(assets/images/resources/coaching-item-style2-bg-1.jpg)"></div>
                     <div class="inner">
                         <div class="icon"><span class="flaticon-business"></span></div>
-                        <h3><a href="coaching-toefl.html">TOEFL</a></h3>
+                        <h3><a href="coaching-toefl.php">TOEFL</a></h3>
                         <p>TOEFL contrary popular belief, Lorem Ipsum is not simply random text.</p>
                     </div>
                 </div>
@@ -81,7 +81,7 @@
                     <div class="coaching-item-style2-bg" style="background-image: url(assets/images/resources/coaching-item-style2-bg-1.jpg)"></div>
                     <div class="inner">
                         <div class="icon"><span class="flaticon-people"></span></div>
-                        <h3><a href="coaching-graduate.html">Graduate Re-Exam</a></h3>
+                        <h3><a href="coaching-graduate.php">Graduate Re-Exam</a></h3>
                         <p>Graduate Re Exam popular belief, Lorem Ipsum is not simply random text.</p>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                     <div class="coaching-item-style2-bg" style="background-image: url(assets/images/resources/coaching-item-style2-bg-1.jpg)"></div>
                     <div class="inner">
                         <div class="icon"><span class="flaticon-education"></span></div>
-                        <h3><a href="coaching-scholastic.html">Scholastic Apti</a></h3>
+                        <h3><a href="coaching-scholastic.php">Scholastic Apti</a></h3>
                         <p>Scholastic Apti popular belief, Lorem Ipsum is not simply random text.</p>
                     </div>
                 </div>
@@ -105,7 +105,7 @@
                     <div class="coaching-item-style2-bg" style="background-image: url(assets/images/resources/coaching-item-style2-bg-1.jpg)"></div>
                     <div class="inner">
                         <div class="icon"><span class="flaticon-education-1"></span></div>
-                        <h3><a href="coaching-management.html">Management Test</a></h3>
+                        <h3><a href="coaching-management.php">Management Test</a></h3>
                         <p>Management Test popular belief, Lorem Ipsum is not simply random text.</p>
                     </div>
                 </div>

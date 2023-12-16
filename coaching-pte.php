@@ -22,7 +22,7 @@
                     </div>
                     <div class="breadcrumb-menu wow slideInDown animated" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <ul class="clearfix">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><i class="fa fa-angle-double-right" aria-hidden="true"></i></li>
                             <li class="active">Coaching Detail</li>
                         </ul>    
@@ -42,16 +42,7 @@
             <div class="col-xl-4 col-lg-4 col-md-12 order-box-2">
                 <div class="sidebar-style1 style1instyle2">
                     <!--Start Single Sidebar Style1-->
-                    <div class="single-sidebar-style1">
-                        <ul class="page-links">
-                            <li><a href="coaching-ielts.html">IELTS Coaching<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-                            <li class="active"><a href="coaching-pte.html">PTE Coaching<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-                            <li><a href="coaching-toefl.html">TOEFL<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-                            <li><a href="coaching-graduate.html">Graduate Re Exam<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-                            <li><a href="coaching-scholastic.html">Scholastic Apti<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-                            <li><a href="coaching-management.html">Management Test<i class="fa fa-angle-right" aria-hidden="true"></i></a></li>
-                        </ul>    
-                    </div>
+                    <?php include('./partials/coaching-sidebar.php') ?>
                     <!--End Single Sidebar Style1-->
                     <!--Start Single Sidebar Style1-->
                     <div class="single-sidebar-style1">

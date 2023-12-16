@@ -49,7 +49,7 @@
                         <div class="icon"><span class="flaticon-technology"></span></div>
                     </div>
                     <div class="text-holder">
-                        <h3><a href="visa-student.html">Student Visa</a></h3>
+                        <h3><a href="visa-student.php">Student Visa</a></h3>
                         <p>Student visa to popular belief. Elementum sapien an pulvinar augue.</p>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
                         <div class="icon"><span class="flaticon-business-1"></span></div>
                     </div>
                     <div class="text-holder">
-                        <h3><a href="visa-business.html">Business Visa</a></h3>
+                        <h3><a href="visa-business.php">Business Visa</a></h3>
                         <p>Business visa to popular belief. Elementum sapien an pulvinar augue.</p>
                     </div>
                 </div>
@@ -83,7 +83,7 @@
                         <div class="icon"><span class="flaticon-electronics"></span></div>
                     </div>
                     <div class="text-holder">
-                        <h3><a href="visa-job.html">Job Seeker Visa</a></h3>
+                        <h3><a href="visa-job.php">Job Seeker Visa</a></h3>
                         <p>Job Seeker visa to popular belief. Elementum sapien an pulvinar augue.</p>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                         <div class="icon"><span class="flaticon-profession"></span></div>
                     </div>
                     <div class="text-holder">
-                        <h3><a href="visa-tourist.html">Tourist Visa</a></h3>
+                        <h3><a href="visa-tourist.php">Tourist Visa</a></h3>
                         <p>Tourist visa to popular belief. Elementum sapien an pulvinar augue.</p>
                     </div>
                 </div>
@@ -118,7 +118,7 @@
                         <div class="icon"><span class="flaticon-business-2"></span></div>
                     </div>
                     <div class="text-holder">
-                        <h3><a href="visa-consular.html">Consular Closings</a></h3>
+                        <h3><a href="visa-consular.php">Consular Closings</a></h3>
                         <p>Consular Closings visa to popular belief. Elementum sapien an pulvinar augue.</p>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
                         <div class="icon"><span class="flaticon-people-3"></span></div>
                     </div>
                     <div class="text-holder">
-                        <h3><a href="visa-diplomatic.html">Diplomatic Visa</a></h3>
+                        <h3><a href="visa-diplomatic.php">Diplomatic Visa</a></h3>
                         <p>Diplomatic visa to popular belief. Elementum sapien an pulvinar augue.</p>
                     </div>
                 </div>
@@ -154,7 +154,7 @@
                         <div class="icon"><span class="flaticon-daughter"></span></div>
                     </div>
                     <div class="text-holder">
-                        <h3><a href="visa-family.html">Family Visa</a></h3>
+                        <h3><a href="visa-family.php">Family Visa</a></h3>
                         <p>Family visa to popular belief. Elementum sapien an pulvinar augue.</p>
                     </div>
                 </div>
@@ -171,7 +171,7 @@
                         <div class="icon"><span class="flaticon-people-4"></span></div>
                     </div>
                     <div class="text-holder">
-                        <h3><a href="visa-transit.html">Transit Visa</a></h3>
+                        <h3><a href="visa-transit.php">Transit Visa</a></h3>
                         <p>Transit visa to popular belief. Elementum sapien an pulvinar augue.</p>
                     </div>
                 </div>
@@ -188,7 +188,7 @@
                         <div class="icon"><span class="flaticon-education-3"></span></div>
                     </div>
                     <div class="text-holder">
-                        <h3><a href="visa-migrate.html">Migrate Visa</a></h3>
+                        <h3><a href="visa-migrate.php">Migrate Visa</a></h3>
                         <p>Migrate visa to popular belief. Elementum sapien an pulvinar augue.</p>
                     </div>
                 </div>

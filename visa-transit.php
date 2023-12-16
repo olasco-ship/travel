@@ -22,7 +22,7 @@
                     </div>
                     <div class="breadcrumb-menu wow slideInDown animated" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <ul class="clearfix">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><i class="fa fa-angle-double-right" aria-hidden="true"></i></li>
                             <li class="active">Transit Visa</li>
                         </ul>    
@@ -108,19 +108,7 @@
             <div class="col-xl-4 col-lg-4 col-md-12">
                 <div class="sidebar-style1">
                     <!--Start Single Sidebar Style1-->
-                    <div class="single-sidebar-style1">
-                        <ul class="page-links">     
-                            <li><a href="visa-student.html"><i class="fa fa-angle-left" aria-hidden="true"></i>Student Visa</a></li>
-                            <li><a href="visa-business.html"><i class="fa fa-angle-left" aria-hidden="true"></i>Business Visa</a></li>
-                            <li><a href="visa-job.html"><i class="fa fa-angle-left" aria-hidden="true"></i>Job Seeker Visa</a></li>
-                            <li><a href="visa-tourist.html"><i class="fa fa-angle-left" aria-hidden="true"></i>Tourist Visa</a></li>
-                            <li><a href="visa-consular.html"><i class="fa fa-angle-left" aria-hidden="true"></i>Consular Closings</a></li>
-                            <li><a href="visa-diplomatic.html"><i class="fa fa-angle-left" aria-hidden="true"></i>Diplomatic Visa</a></li>
-                            <li><a href="visa-family.html"><i class="fa fa-angle-left" aria-hidden="true"></i>Family Visa</a></li>
-                            <li class="active"><a href="visa-transit.html"><i class="fa fa-angle-left" aria-hidden="true"></i>Transit Visa</a></li>
-                            <li><a href="visa-migrate.html"><i class="fa fa-angle-left" aria-hidden="true"></i>Migrate Visa</a></li>
-                        </ul>    
-                    </div>
+                    <?php include('./partials/visa-sidebar.php') ?>
                     <!--End Single Sidebar Style1-->
                     <!--Start Single Sidebar Style1-->
                     <div class="single-sidebar-style1 last-child">

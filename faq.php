@@ -22,7 +22,7 @@
                     </div>
                     <div class="breadcrumb-menu wow slideInDown animated" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <ul class="clearfix">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><i class="fa fa-angle-double-right" aria-hidden="true"></i></li>
                             <li class="active">Some FAQ’s</li>
                         </ul>    
