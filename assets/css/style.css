@@ -302,6 +302,7 @@ li {
   display: block;
   margin-top: -6px;
   padding-bottom: 48px;
+  margin-left: -12%;
 }
 .sec-title h3 {
   color: #0098ff;
@@ -2606,10 +2607,10 @@ select:focus {
   z-index: -1;
 }
 .select-country-area .sec-title h2 {
-  color: #0098ff;
+  color: #000000;
 }
 .select-country-area .sec-title h2 span {
-  color: #0098ff;
+  color: #000000;
 }
 
 .single-select-country {

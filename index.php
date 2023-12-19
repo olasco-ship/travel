@@ -13,38 +13,72 @@
 
 
 <!-- Start Main Slider -->
-<section class="banner-area" style="background-image: url(assets/images/slides/banner-bg.jpg)">
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-12">
-                <div class="visa-form-box">
-                    <div class="title">
-                        <p>
-                        <span class="right1 change one">Canada</span>
-                        <!-- <span class="right1 change one">USA</span> -->
-                        </p>
-                        <h3 class="grey">My</h3> 
-                        <h2 class="change two">Express Entry</h2>
-                        <h3 class="grey">application</h3>
+<section class="main-slider style1">
+    <div class="slider-box">
+        <!-- Banner Carousel -->
+        <div class="banner-carousel owl-theme owl-carousel">
+            <!-- Slide -->
+            <div class="slide">
+                <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-1.jpg)"></div>
+                <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="visa-form-box">
+                            <div class="title">
+                                <p>
+                                <span class="right1 change one">Canada</span>
+                                <!-- <span class="right1 change one">USA</span> -->
+                                </p>
+                                <h3 class="grey">My</h3> 
+                                <h2 class="change two">Express Entry</h2>
+                                <h3 class="grey">application</h3>
+                            </div>
+                            <div class="bottom1">
+                                <div>
+                                    <ul>
+                                        <li><span class="a" style="width: 30px;" ><img src="assets/images/test(2).png" alt=""></span> Confirmation</li>
+                                        <li><span class="img b"><img src="assets/images/test(2).png" alt=""></span> Secure Document Upload</li>
+                                        <li><span class="img c"><img src="assets/images/test(2).png" alt=""></span> Simple Fee Payment</li>
+                                        <li><span class="img d"><img src="assets/images/test(2).png" alt=""></span> Submit to Government</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>    
                     </div>
-                    <div class="bottom1">
-                        <div class="bottom-left">
-                        
-                        
-                        
-                        
-                        </div>
-                        <div class="bottom-right">
-                            <ul>
-                                <li><span class="img a" ><img src="assets/images/test(2).png" alt=""></span> Confirmation</li>
-                                <li><span class="img b"><img src="assets/images/test(2).png" alt=""></span> Secure Document Upload</li>
-                                <li><span class="img c"><img src="assets/images/test(2).png" alt=""></span> Simple Fee Payment</li>
-                                <li><span class="img d"><img src="assets/images/test(2).png" alt=""></span> Submit to Government</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>    
+                </div>
+              </div>
             </div>
+            <!-- Slide -->
+            <div class="slide">
+                <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-1.jpg)"></div>
+                <div class="container">
+                <div class="row">
+                    <div class="col-xl-12">
+                        <div class="visa-form-box">
+                            <div class="title">
+                                <p>
+                                <span class="right1 change one">USA</span>
+                                <!-- <span class="right1 change one">USA</span> -->
+                                </p>
+                                <h3 class="grey">My</h3> 
+                                <h2 class="change two">Visitor Visa</h2>
+                                <h3 class="grey">application</h3>
+                            </div>
+                            <div class="bottom1">
+                                <div>
+                                    <ul>
+                                        <li><span class="a" style="width: 30px;" ><img src="assets/images/test(2).png" alt=""></span> Confirmation</li>
+                                        <li><span class="img b"><img src="assets/images/test(2).png" alt=""></span> Secure Document Upload</li>
+                                        <li><span class="img c"><img src="assets/images/test(2).png" alt=""></span> Simple Fee Payment</li>
+                                        <li><span class="img d"><img src="assets/images/test(2).png" alt=""></span> Submit to Government</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>    
+                    </div>
+                </div>
+              </div>
+            </div>         
         </div>
     </div>
 </section>
@@ -97,6 +131,88 @@
     </div>    
 </section>
 <!--End Select Country Area-->
+
+<!--Start Accreditation-->
+<section class="select-country-area">
+    <div class="container">
+        <div class="sec-title text-center">
+            <h3>Trustworthy and Reliable</h3>
+        </div>
+        <div class="row justify-content-center">
+            <!--Start Single select Country-->
+            <div class="col-4">
+                <div class="single-select-country">
+                    <div class="img-holder">
+                        <img src="assets/images/resources/BBB.webp" alt="Awesome Image">
+                    </div>    
+                </div>    
+            </div>
+            <!--End Single select Country-->
+            <!--Start Single select Country-->
+            <div class="col-4">
+                <div class="single-select-country">
+                    <div class="img-holder">
+                        <img src="assets/images/resources/SecureEncryption.webp" alt="Awesome Image">
+                    </div>  
+                </div>    
+            </div>
+            <!--End Single select Country-->
+        </div>
+        <div class="row justify-content-center">
+            <!--Start Single select Country-->
+            <div class="col-4">
+                <div class="single-select-country">
+                    <div class="img-holder">
+                        <img src="assets/images/resources/RCIC.webp" alt="Awesome Image">
+                    </div>    
+                </div>    
+            </div>
+            <!--End Single select Country-->
+            <!--Start Single select Country-->
+            <div class="col-4">
+                <div class="single-select-country">
+                    <div class="img-holder">
+                        <img src="assets/images/resources/PreparedByAttorneys.webp" alt="Awesome Image">
+                    </div>  
+                </div>    
+            </div>
+            <!--End Single select Country-->
+        </div>
+    </div>    
+</section>
+<!--End Select Country Area-->
+
+
+<!--Start Accreditation-->
+<section class="select-country-area">
+    <div class="container">
+        <div class="sec-title text-center">
+            <h3>Go to our country specific pages to learn more</h3>
+        </div>
+        <div class="row justify-content-center">
+            <!--Start Single select Country-->
+            <div class="col-6 col-md-4">  
+            </div>
+            <!--End Single select Country-->
+            <!--Start Single select Country-->
+            <div class="col-6 col-md-4">
+                <div class="single-select-country">
+                    <div class="img-holder">
+                    <button type="button" class="btn btn-outline-primary">Canada Visas</button>
+                    <button type="button" class="btn btn-outline-primary">U.S Visas</button>
+                    </div>    
+                </div>    
+            </div>
+            <!--End Single select Country-->
+            <!--Start Single select Country-->
+            <div class="col-6 col-md-4">   
+            </div>
+            <!--End Single select Country-->
+        </div>
+    </div>    
+</section>
+<!--End Select Country Area-->
+
 
 
 <!--Start footer area-->  

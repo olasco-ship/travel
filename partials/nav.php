@@ -20,17 +20,17 @@
                     <div class="header-social-link style2">
                         <ul>
                             <li>
-                                <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a> 
+                                 <button type="button" class="btn btn-primary" href="#">Log In</button> 
                             </li>
                             <li>
-                                <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a> 
+                                <button type="button" class="btn btn-outline-primary">Sign Up</button> 
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                             </li>
                             <li>
                                 <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a> 
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                     

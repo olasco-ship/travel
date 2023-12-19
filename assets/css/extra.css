@@ -30,7 +30,7 @@ body {
   margin-left: 5%;
 }
 .grey {
-  color: gray;
+  color: black;
   margin-top: 2px;
   margin-bottom: 2px;
 }
@@ -75,7 +75,7 @@ h3 {
 
 .bottom1 img {
   border-radius: 50%;
-  width: 35px;
+  width: 35px !important;
   /* margin-top: -1px; */
   /* padding-top: 10px; */
 }
