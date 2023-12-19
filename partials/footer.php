@@ -1,23 +1,5 @@
 <footer class="footer-area">
-    <div class="layer-outer" style="background-image: url(assets/images/pattern/footer-bg.png)"></div>
-    <div class="container">
-        <div class="row">
-            <div class="col-xl-12">
-                <div class="subscribe-content-box">
-                    <div class="subscribe-title">
-                        <h2>Latest Updates Wants</h2>
-                        <p>Subscribe now to stay connected. We respect your privacy.</p>
-                    </div>
-                    <div class="subscribe-box">
-                        <form class="subscribe-form black_ver" action="#">
-                            <input type="email" name="email" placeholder="Email Address......">
-                            <button type="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>  
+    <div class="layer-outer" style="background-image: url(assets/images/pattern/footer-bg.png)"></div>  
     <div class="footer">
         <div class="container">
             <div class="row">
@@ -26,7 +8,7 @@
                     <div class="single-footer-widget marbtm">
                         <div class="our-company-info">
                             <div class="footer-logo">
-                                <a href="index.html"><img src="assets/images/footer/footer-logo.png" alt="Awesome Footer Logo" title="Logo"></a>    
+                                <a href="index.html"><img src="assets/images/footer/logo.webp" alt="Awesome Footer Logo" title="Logo"></a>    
                             </div>
                             <div class="text">
                                 <p>Migrate provides the simplest solution for processing your all types of visa. Say good bye to end less hassles and confusions. There anyone who loves or pursues not some great to have pleasure.</p>
@@ -60,11 +42,7 @@
                         <ul class="countries-links">
                             <li><a href="#">Canada</a></li>    
                             <li><a href="#">United States</a></li>    
-                            <li><a href="#">United Kingdom</a></li>    
-                            <li><a href="#">Australia</a></li>    
-                            <li><a href="#">New Zealand</a></li>        
-                            <li><a href="#">Singapore</a></li>        
-                            <li><a href="#">South Africa</a></li>             
+                            <li><a href="#">United Kingdom</a></li>                
                         </ul>                     	  
                     </div>
                 </div>

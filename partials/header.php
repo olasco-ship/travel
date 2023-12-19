@@ -4,8 +4,8 @@
 <!-- responsive meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- For IE -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <link rel="stylesheet" href="assets/css/extra.css">
 	<link rel="stylesheet" href="assets/css/aos.css">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">	
 	<link rel="stylesheet" href="assets/css/imp.css">
@@ -16,7 +16,6 @@
 	<link rel="stylesheet" href="assets/css/magnific-popup.css">
 	<link rel="stylesheet" href="assets/css/scrollbar.css">
 	<link rel="stylesheet" href="assets/css/hiddenbar.css">
-   
     <link rel="stylesheet" href="assets/css/color.css">
     <link href="assets/css/color/theme-color.css" id="jssDefault" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/style.css">
