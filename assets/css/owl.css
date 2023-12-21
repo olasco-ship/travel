@@ -23,7 +23,7 @@
 }
 .owl-carousel .owl-stage:after {
   content: ".";
-  /* display: block; */
+  display: block;
   clear: both;
   visibility: hidden;
   line-height: 0;
@@ -52,7 +52,10 @@
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
 }
-
+.owl-carousel .owl-item img {
+  display: inline;
+  width: 100%;
+}
 .owl-carousel .owl-nav.disabled,
 .owl-carousel .owl-dots.disabled {
   display: none;
@@ -76,7 +79,13 @@
   padding: 0 !important;
   font: inherit;
 }
-
+.owl-carousel.owl-loaded {
+  display: block;
+}
+.owl-carousel.owl-loading {
+  opacity: 0;
+  display: block;
+}
 .owl-carousel.owl-hidden {
   opacity: 0;
 }
@@ -103,6 +112,9 @@
 }
 
 /* No Js */
+.no-js .owl-carousel {
+  display: block;
+}
 
 /*
  *  Owl Carousel - Animate Plugin

@@ -1,0 +1,66 @@
+.owl-carousel {
+  display: block !important;
+}
+
+.owl-carousel .owl-item img {
+  display: inline !important;
+}
+
+.header-top-left ul li span {
+  color: #ff0100 !important;
+}
+.any-questions-box .title h4 {
+  color: #ff0100 !important;
+}
+
+.btn-primary {
+  background-color: #ff0100 !important;
+  border-color: #ff0100 !important;
+}
+
+.btn-outline-primary {
+  color: #ff0100 !important;
+  border-color: #ff0100 !important;
+}
+
+.main-menu.style2 .navigation > li:hover > a,
+.main-menu.style2 .navigation > li.current > a {
+  color: #ff0100 !important;
+}
+
+.visa-form-box .title h3 {
+  color: #ff0100 !important;
+}
+
+.search-box-style2 button,
+.search-box-style2 input[type="submit"] {
+  color: #ff0100 !important;
+}
+
+.sticky-header .main-menu .navigation > li:hover > a,
+.sticky-header .main-menu .navigation > li.current > a {
+  color: #ff0100 !important;
+}
+
+.single-select-country .text-holder a {
+  color: #ff0100 !important;
+}
+.view-all-country-button p a {
+  color: #ff0100 !important;
+}
+
+.single-footer-widget .title:before {
+  background-color: #ff0100 !important;
+}
+
+.scroll-top.style2 {
+  background-color: #ff0100 !important;
+}
+
+.footer-menu ul li a:hover {
+  color: #ff0100 !important;
+}
+
+.sec-title h3 {
+  color: #ff0100 !important;
+}

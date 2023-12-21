@@ -11,7 +11,7 @@
                                 <a href="index.html"><img src="assets/images/footer/logo.webp" alt="Awesome Footer Logo" title="Logo"></a>    
                             </div>
                             <div class="text">
-                                <p>Migrate provides the simplest solution for processing your all types of visa. Say good bye to end less hassles and confusions. There anyone who loves or pursues not some great to have pleasure.</p>
+                                <p>At Latent Canada Immigration Consulting, we are dedicated and committed to helping all our clients immigrate to Canada successfully, through the provision of cost-effective solution strategies for your immigration plans and to make your Canada immigration dreams a reality.</p>
                             </div>
                             <div class="footer-social-links">
                                 <ul>
@@ -78,8 +78,9 @@
                                         <span class="flaticon-worldwide thm-clr"></span>
                                     </div>
                                     <div class="text">
-                                        <h4>25BT, San Rojartar,</h4>
-                                        <p>New York, United States</p>
+                                        <h4>328 Neal Drive,</h4>
+                                        <p>Richmond Hill, ONTARIO</p>
+                                        <p>L4C 3L5</p>
                                     </div>
                                 </li>
                                 <li>
@@ -88,7 +89,7 @@
                                     </div>
                                     <div class="text">
                                         <h4>Send Your Mail At</h4>
-                                        <p><a href="mailto:info@templatepath.com">example@Support.Com</a></p>
+                                        <p><a href="mailto:info@templatepath.com">support@latentimmigration.ca</a></p>
                                     </div>
                                 </li>
                                 <li>

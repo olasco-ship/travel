@@ -19,10 +19,21 @@
         <div class="banner-carousel owl-theme owl-carousel">
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-1.jpg)"></div>
-                <div class="container">
+                <div class="image-layer" style="background-image:url(assets/images/slides/ass.jpg)"></div>
+                <div class="auto-container">
                 <div class="row">
-                    <div class="col-xl-12">
+                    <!-- Slide -->
+                    <div class="content col">
+                        <h3>High-Class Professionals</h3>
+                        <h2>We Are Most Trusted<br> Immigration Agency</h2>
+                        <div class="btns-box">
+                            <a class="btn-one" href="#"><span class="txt">Check Eligibility</span></a>
+                            <a class="btn-one" href="#"><span class="txt">Search All Visas</span></a>
+                        </div>
+                    </div>
+                
+
+                    <div class="col">
                         <div class="visa-form-box">
                             <div class="title">
                                 <p>
@@ -50,10 +61,19 @@
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(assets/images/slides/slide-v1-1.jpg)"></div>
-                <div class="container">
+                <div class="image-layer" style="background-image:url(assets/images/slides/ass.jpg)"></div>
+                <div class="auto-container">
                 <div class="row">
-                    <div class="col-xl-12">
+                <div class="content col">
+                        <h3>High-Class Professionals</h3>
+                        <h2>We Are Most Trusted<br> Immigration Agency</h2>
+                        <div class="btns-box">
+                            <a class="btn-one" href="#"><span class="txt">Check Eligibility</span></a>
+                            <a class="btn-one" href="#"><span class="txt">Search All Visas</span></a>
+                        </div>
+                    </div>
+
+                    <div class="col">
                         <div class="visa-form-box">
                             <div class="title">
                                 <p>
@@ -100,7 +120,7 @@
                     </div>
                     <div class="text-holder">
                         <h3>United States</h3>
-                        <p>Studying In The United State of America quis nostrud exercitation</p>
+                        <p>My Destination is United States </p>
                         <a href="#">Read More<span class="flaticon-right"></span></a>
                     </div>    
                 </div>    
@@ -114,7 +134,7 @@
                     </div>
                     <div class="text-holder">
                         <h3>Canada</h3>
-                        <p>Studying In The United State of Canada quis nostrud exercitation</p>
+                        <p>My Destination is Canada</p>
                         <a href="#">Read More<span class="flaticon-right"></span></a>
                     </div>    
                 </div>    

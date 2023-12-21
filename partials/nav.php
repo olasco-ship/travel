@@ -5,7 +5,7 @@
                 <div class="header-top-left pull-left">
                     <ul>
                         <li><span>Office:</span> Greenville Avenue California</li>
-                        <li><span>Email:</span> <a href="mailto:info@templatepath.com">mail@example.com</a></li>
+                        <li><span>Email:</span> <a href="mailto:info@templatepath.com">support@latentimmigration.ca</a></li>
                     </ul>
                 </div>
                 <div class="header-top-right clearfix pull-right">
@@ -82,7 +82,7 @@
                         </div>
                         <div class="title">
                             <h4>Have any Questions?</h4>
-                            <a href="tel:123456789">+0 123 888 555</a>
+                            <a href="tel:123456789">+1 647 8759 477</a>
                         </div>    
                     </div>  
                       
