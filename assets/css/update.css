@@ -62,5 +62,37 @@
 }
 
 .sec-title h3 {
-  color: #ff0100 !important;
+  color: #000000 !important;
+}
+
+.banner-carousel .owl-dots .owl-dot.active  {
+
+  background-color: #ff0100 !important;
+  border-color: #ff0100 !important;
+}
+
+
+.sent {
+
+  text-decoration: underline;
+  /*text-decoration-color: #ff0100 !important;*/
+  color: white !important;
+}
+
+.btn-one:hover {
+
+  background-color: #000000 !important;
+}
+
+
+ .btn-one {
+    margin-right: 40px;
+    /* background-color: navajowhite; */
+    background-color: transparent !important;
+    border: 1px solid #ff0100 !important;
+}
+
+.btn-one:after {
+
+  background: transparent !important;
 }

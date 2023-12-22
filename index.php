@@ -19,13 +19,14 @@
         <div class="banner-carousel owl-theme owl-carousel">
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(assets/images/slides/ass.jpg)"></div>
+                <div class="image-layer" style="background-image:url(assets/images/slides/banner9.jpg)"></div>
                 <div class="auto-container">
                 <div class="row">
                     <!-- Slide -->
                     <div class="content col">
-                        <h3>High-Class Professionals</h3>
-                        <h2>We Are Most Trusted<br> Immigration Agency</h2>
+                        <h3 class="sent" style="font-weight: 700px;">We are Latent Immigration Consultant</h3>
+                        <h2 style="color: white; font-weight: 100px; font size: 75px; font-family: Roboto; line-height: 80px;">Canada Immigration<br>
+                            Consultant</h2>
                         <div class="btns-box">
                             <a class="btn-one" href="#"><span class="txt">Check Eligibility</span></a>
                             <a class="btn-one" href="#"><span class="txt">Search All Visas</span></a>
@@ -61,7 +62,7 @@
             </div>
             <!-- Slide -->
             <div class="slide">
-                <div class="image-layer" style="background-image:url(assets/images/slides/ass.jpg)"></div>
+                <div class="image-layer" style="background-image:url(assets/images/slides/latent21.jpg)"></div>
                 <div class="auto-container">
                 <div class="row">
                 <div class="content col">
@@ -108,7 +109,7 @@
 <section class="select-country-area">
     <div class="container">
         <div class="sec-title text-center">
-            <h3>Select COUNTRY</h3>
+            <!-- <h3>Select COUNTRY</h3> -->
             <h2>Choose Your Country<br> <span>For Immigration.</span></h2>
         </div>
         <div class="row">
