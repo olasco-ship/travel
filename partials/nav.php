@@ -68,7 +68,7 @@
                                     <li class="current"><a href="#">Visas</a></li>
                                     <li><a href="#">Resources</a></li>
                                     <li><a href="#">Partners</a></li>
-                                    <li><a href="countery.html">About Us</a></li>
+                                    <li><a href="us_filter.php">About Us</a></li>
                                     <li><a href="#">Blog</a></li>
                                 </ul>
                             </div>

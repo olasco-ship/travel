@@ -283,6 +283,8 @@
 <!-- thm custom script -->
 <script src="assets/js/custom.js"></script>
 
+<script src="assets/js/star.js"></script>
+
 
 
 </body>

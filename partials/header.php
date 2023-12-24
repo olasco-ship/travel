@@ -4,7 +4,10 @@
 <!-- responsive meta -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- For IE -->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="assets/css/star.css">
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
     <link rel="stylesheet" href="assets/css/extra.css">
 	<link rel="stylesheet" href="assets/css/aos.css">
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css">	
