@@ -6,6 +6,8 @@
 <body>
 <div class="boxed_wrapper">
 
+<div class="preloader"></div>
+
 <!-- Main header -->
 <?php include('./partials/nav.php') ?>
 
@@ -41,66 +43,66 @@
             </div>
         </div>
         <div class="right">
-            <div class="single">
+            <div class="single otun">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                   <span class="tiny visit">visit</span>
 
             </div>
-            <div class="single">
+            <div class="single osi">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny visit">Visit </span> <span class="tiny">Net Worth 10K </span>
 
             </div>
-            <div class="single">
+            <div class="single otun">
                 <h4>Bussiness Plan for the U.S</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny">Net Wroth 10K</span>
 
             </div>
-            <div class="single">
+            <div class="single osi">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny work">work</span> <span class="tiny">Additional Services</span>
 
             </div>
-            <div class="single">
+            <div class="single otun">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny">Additional Services</span>
 
             </div>
-            <div class="single">
+            <div class="single osi">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny work">work</span>
 
             </div>
-            <div class="single">
+            <div class="single otun">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny study"> Study</span>
 
             </div>
-            <div class="single">
+            <div class="single osi">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny">Immigrate</span>
 
             </div>
-            <div class="single">
+            <div class="single otun">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny">Job offer needed</span><span class="tiny work">work</span>
             </div>
-            <div class="single">
+            <div class="single osi">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny">Net worth 25k</span> <span class="tiny study">Study </span>
 
             </div>
-            <div class="single">
+            <div class="single otun">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny work">work</span>
@@ -112,37 +114,37 @@
                 <span class="tiny work">work</span>
 
             </div>
-            <div class="single">
+            <div class="single otun">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny">Job offer needed</span><span class="tiny work">Work </span>
 
             </div>
-            <div class="single">
+            <div class="single osi">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny work"> Work</span>
 
             </div>
-            <div class="single">
+            <div class="single otun">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny">Additional Services</span>
 
             </div>
-            <div class="single">
+            <div class="single osi">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny">Additional Services</span> <span class="tiny">Job offer needed</span><span class="tiny work">Work</span>
 
             </div>
-            <div class="single">
+            <div class="single otun">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny immigrate">Immigrate</span> <span class="tiny">Net worth 20K </span>
 
             </div>
-            <div class="single">
+            <div class="single osi">
                 <h4>B1/B2 Attorney Representation</h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny">Additional Services</span>
