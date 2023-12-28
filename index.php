@@ -131,7 +131,7 @@
             <div class="col-xl-6">
                 <div class="single-select-country">
                     <div class="img-holder">
-                        <img src="assets/images/resources/Canada_flag.webp" alt="Awesome Image">
+                        <img src="assets/images/resources/Canada_Flag.png" alt="Awesome Image">
                     </div>
                     <div class="text-holder">
                         <h3>Canada</h3>
@@ -184,7 +184,7 @@
             <div class="col-4">
                 <div class="single-select-country">
                     <div class="img-holder">
-                        <img src="assets/images/resources/RCIC.webp" alt="Awesome Image">
+                        <img src="assets/images/resources/RCIC.png" alt="Awesome Image">
                     </div>    
                 </div>    
             </div>

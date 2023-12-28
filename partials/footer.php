@@ -78,9 +78,10 @@
                                         <span class="flaticon-worldwide thm-clr"></span>
                                     </div>
                                     <div class="text">
-                                        <h4>328 Neal Drive,</h4>
-                                        <p>Richmond Hill, ONTARIO</p>
-                                        <p>L4C 3L5</p>
+                                        <h4>527 Dundonald Street</h4>
+                                        <p>Fredericton, NB</p>
+                                        <p>E3B 1X5</p>
+                                        <p>Canada.</p>
                                     </div>
                                 </li>
                                 <li>
@@ -98,7 +99,7 @@
                                     </div>
                                     <div class="text">
                                         <h4>Working Hours</h4>
-                                        <p>Mon-Sat:9.30am To 7.00pm</p>
+                                        <p>Mon-Fri:9am To 5pm AST</p>
                                     </div>
                                 </li> 
                             </ul>

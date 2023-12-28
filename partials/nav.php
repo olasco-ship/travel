@@ -46,7 +46,7 @@
                 <!--Start Header Left-->
                 <div class="header-left-style2 clearfix pull-left">
                     <div class="logo">
-                        <a href="index.php"><img src="assets/images/resources/latent_n_logo.png" alt="Awesome Logo" title=""></a>
+                        <a href="index.php"><img src="assets/images/resources/Latent_Logo.png" alt="Awesome Logo" title=""></a>
                     </div>
                 </div>
                 <!--End Header Left-->
@@ -66,10 +66,10 @@
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
                                     <li class="current"><a href="#">Visas</a></li>
-                                    <li><a href="#">Resources</a></li>
-                                    <li><a href="#">Partners</a></li>
+                                    <li><a href="partners.php">Resources</a></li>
+                                    <li><a href="canada_filter.php">Partners</a></li>
                                     <li><a href="us_filter.php">About Us</a></li>
-                                    <li><a href="#">Blog</a></li>
+                                    <li><a href="about-us.php">Blog</a></li>
                                 </ul>
                             </div>
                         </nav>                        
