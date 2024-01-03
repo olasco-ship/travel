@@ -307,9 +307,9 @@ i {
 }
 
 .title {
-  font-size: 40px;
+  font-size: 30px !important;
   font-weight: bolder;
-  text-align: center;
+  /* text-align: center; */
 }
 .about_mid {
   margin-top: 10%;

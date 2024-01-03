@@ -1,6 +1,6 @@
 <head>
 	<title>Home One || Migrate || Immigration Service Responsive HTML 5 Template</title>
-    <?php include('./partials/header.php') ?>
+    <?php $page = 'partners';include('./partials/header.php') ?>
 </head>
 
 <body>

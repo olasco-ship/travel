@@ -25,7 +25,7 @@
                     <!-- Slide -->
                     <div class="content col">
                         <h3 class="sent" style="font-weight: 700px;">We are Latent Immigration Consultant</h3>
-                        <h2 style="color: white; font-weight: 100px; font size: 75px; font-family: Roboto; line-height: 80px;">Canada Immigration<br>
+                        <h2 style="color: white; font-weight: 100px; font-size: 75px; font-family: Roboto; line-height: 80px;">Canada Immigration<br>
                             Consultant</h2>
                         <div class="btns-box">
                             <a class="btn-one" href="#"><span class="txt">Check Eligibility</span></a>

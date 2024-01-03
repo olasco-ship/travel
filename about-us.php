@@ -1,6 +1,6 @@
 <head>
 	<title>Home One || Migrate || Immigration Service Responsive HTML 5 Template</title>
-    <?php include('./partials/header.php') ?>
+    <?php $page = 'about';include('./partials/header.php') ?>
 </head>
 
 <body>
@@ -14,18 +14,24 @@
     <section class="about_top top">
         <h3 class="about_big big">The pursuit of <span class="blue">happiness</span></h3>
         <div class="top_p">
-        <p class="smallp about_p">We are immigrants and/or have experienced the visa application process. We believe the immigration experience could be better - simpler, faster, less expensive and with more confidence in the outcome.
-<<<<<<< HEAD
-        </p>
-        <p class="p_nd smallp">We believe that generative artificial intelligence (AI) and machine vision has the potential to drastically simplify the visa application process. We are reducing the data entry and document generation steps for both the applicant and our expert reviewers. With the proper use of technology, our goal is to make access to expert immigration advice more accessible since it is easy, low cost, supports multiple languages and is accessible to anyone anywhere with an Internet connection.</p>
-        <p class="p_rd smallp">Then everyone would be happier.</p>
-=======
-            <p class="p_nd smallp">We believe that generative artificial intelligence (AI) and machine vision has the potential to drastically simplify the visa application process. We are reducing the data entry and document generation steps for both the applicant and our expert reviewers. With the proper use of technology, our goal is to make access to expert immigration advice more accessible since it is easy, low cost, supports multiple languages and is accessible to anyone anywhere with an Internet connection.</p>
-            <p class="p_rd smallp">Then everyone would be happier.</p>
-        </p>
->>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
+            <p class="smallp about_p">
+                We are immigrants and/or have experienced the visa application process. We believe the immigration experience could be better - simpler, faster, less expensive and with more confidence in the outcome.
+            </p>
+            <p class="p_nd smallp">
+                We believe that generative artificial intelligence (AI) and machine vision has the potential to drastically simplify the visa application process. We are reducing the data entry and document generation steps for both the applicant and our expert reviewers. With the proper use of technology, our goal is to make access to expert immigration advice more accessible since it is easy, low cost, supports multiple languages and is accessible to anyone anywhere with an Internet connection.
+            </p>
+            <p class="p_rd smallp">
+                Then everyone would be happier.
+            </p>
+            <p class="p_nd smallp">
+                We believe that generative artificial intelligence (AI) and machine vision has the potential to drastically simplify the visa application process. We are reducing the data entry and document generation steps for both the applicant and our expert reviewers. With the proper use of technology, our goal is to make access to expert immigration advice more accessible since it is easy, low cost, supports multiple languages and is accessible to anyone anywhere with an Internet connection.
+            </p>
+            <p class="p_rd smallp">
+                Then everyone would be happier.
+            </p>
         </div>
     </section>
+
     <section class="about_mid">
         <h3 class="title">SuperVisas <span class="blue">team</span></h3>
         <div class="infos">

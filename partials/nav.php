@@ -4,7 +4,7 @@
             <div class="outer-box clearfix">
                 <div class="header-top-left pull-left">
                     <ul>
-                        <li><span>Office:</span> Greenville Avenue California</li>
+                        <li><span>Office:</span> Fredericton, Canada</li>
                         <li><span>Email:</span> <a href="mailto:info@templatepath.com">support@latentimmigration.ca</a></li>
                     </ul>
                 </div>
@@ -69,11 +69,11 @@
                         <nav class="main-menu style2 navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li><a href="visas.php">Visas</a></li>
-                                    <li><a href="#">Resources</a></li>
-                                    <li><a href="partners.php">Partners</a></li>
-                                    <li><a href="about-us.php">About Us</a></li>
-                                    <li><a href="">Blog</a></li>
+                                    <li class="<?php if($page=='visas'){echo 'active';}?>"><a href="visas.php">Visas</a></li>
+                                    <li class="<?php if($page=='resources'){echo 'active';}?>"><a href="#">Resources</a></li>
+                                    <li class="<?php if($page=='partners'){echo 'active';}?>"><a href="partners.php">Partners</a></li>
+                                    <li class="<?php if($page=='about'){echo 'active';}?>"><a href="about-us.php">About Us</a></li>
+                                    <li class="<?php if($page=='blog'){echo 'active';}?>"><a href="">Blog</a></li>
                                 </ul>
                             </div>
                         </nav>                        
@@ -86,7 +86,7 @@
                         </div>
                         <div class="title">
                             <h4>Have any Questions?</h4>
-                            <a href="tel:123456789">+1 647 8759 477</a>
+                            <!-- <a href="tel:123456789">+1 647 8759 477</a> -->
                         </div>    
                     </div>  
                       
