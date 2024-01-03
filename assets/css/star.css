@@ -181,11 +181,8 @@ i {
 }
 .second {
   margin-left: 4%;
-<<<<<<< HEAD
   /* margin-top: 5%; */
-=======
   margin-top: 5%;
->>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
 }
 .second h3 {
   color: rgb(0, 102, 255);
@@ -316,15 +313,12 @@ i {
 }
 .about_mid {
   margin-top: 10%;
-<<<<<<< HEAD
   border-top: 1px solid rgba(0, 149, 255, 0.47);
   padding-top: 8%;
   border-bottom: 1px solid rgba(0, 149, 255, 0.47);
   padding-bottom: 8%;
-=======
   border-top: 2px solid rgba(0, 149, 255, 0.47);
   padding-top: 8%;
->>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
 }
 
 .info_img img {
@@ -393,13 +387,10 @@ i {
   color: black;
   font-size: 24px;
   font-weight: 700;
-<<<<<<< HEAD
   padding-bottom: 5%;
 }
-.company:hover{
+.company:hover {
   color: black;
-=======
->>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
 }
 .rip_icon img {
   width: 10%;
@@ -407,16 +398,14 @@ i {
 }
 .main_news {
   margin-top: 3%;
-<<<<<<< HEAD
   margin-bottom: 10%;
 }
-.each_news{
+.each_news {
   padding: 15px;
 }
 
-
 /*   LOGIN_PAGE STYLE */
-.login{
+.login {
   background-color: rgba(228, 228, 228, 0.473);
   width: 35%;
   height: 560px;
@@ -426,11 +415,11 @@ i {
   padding: 20px;
   border-radius: 8px;
 }
-.login_title{
+.login_title {
   text-align: center;
   font-size: 24px;
 }
-.mail{
+.mail {
   width: 100%;
   background: transparent;
   border: 1px solid gray;
@@ -438,29 +427,28 @@ i {
   padding: 6px;
   padding-left: 2rem;
 }
-.mail:focus{
+.mail:focus {
   border: 2px solid rgba(255, 0, 0, 0.808);
 }
 
-.inputs{
+.inputs {
   margin-top: 6%;
 }
-.in_name{
+.in_name {
   font-size: 16px;
   font-weight: 500;
   margin-bottom: 2%;
 }
 
-
-.input_one{
+.input_one {
   margin-top: 5%;
 }
 
-.options{
+.options {
   margin-top: 5%;
   text-decoration: underline;
 }
-.login_btn_btn-primary{
+.login_btn_btn-primary {
   text-align: center;
   background-color: rgb(230, 50, 50);
   color: white;
@@ -468,116 +456,116 @@ i {
   border-radius: 5px;
   margin-top: 5%;
 }
-.login_btn_btn-primary:hover{
+.login_btn_btn-primary:hover {
   box-shadow: 1px 10px 9px rgba(0, 0, 0, 0.274);
   transition: all 500ms ease-in-out;
 }
-.goggle_btn_btn-primary{
+.goggle_btn_btn-primary {
   background: transparent;
   border: 1px solid gray;
   border-radius: 2px;
   padding: 5px 5px;
 }
-.bi-google::before{
+.bi-google::before {
   font-size: 18px;
   color: rgb(23, 165, 23);
 }
-.ic img{
+.ic img {
   width: 20%;
 }
-.button{
+.button {
   text-align: center;
 }
-.lines{
+.lines {
   text-align: center;
 }
-.goggle{
+.goggle {
   margin-bottom: 5%;
 }
 
 /*  SIGN UP PAGE STYLE */
 
-.sign_mid{
+.sign_mid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
 }
-.sign-up{
+.sign-up {
   padding-left: 2%;
   padding-right: 2%;
   height: 820px;
 }
 
-.lond{
+.lond {
   margin-right: 3%;
 }
-.update{
+.update {
   cursor: pointer;
 }
 
-.have{
+.have {
   text-align: center;
 }
 
-.policy{
+.policy {
   font-size: 10px;
   text-align: center;
   margin-top: 8%;
 }
-.policy a{
+.policy a {
   color: gray;
 }
 
 /*   VISA PAGE STYLE */
-.visa_top{
+.visa_top {
   text-align: center;
   margin-top: 10%;
 }
-.visa_title{
+.visa_title {
   font-size: 50px;
   font-weight: bolder;
   margin-bottom: 1%;
 }
-.canada_visa{
+.canada_visa {
   display: grid;
   grid-template-columns: 1fr 1fr;
   margin-top: 8%;
   margin-bottom: 10%;
   margin-left: 5%;
 }
-.canada_left{
+.canada_left {
   width: 100%;
 }
-.canada_right{
+.canada_right {
   margin-top: 3%;
   width: 85%;
 }
-.canada_right ul li{
+.canada_right ul li {
   color: rgb(236, 59, 59);
 }
-.bi-check2::before{
+.bi-check2::before {
   color: rgb(236, 42, 42);
 }
-.canada_left img{
+.canada_left img {
   width: 80%;
   height: 380px;
   margin-left: 10%;
 }
-.right_head{
+.right_head {
   font-size: 30px;
-  margin:3% 0;
+  margin: 3% 0;
 }
-.canada_right p{
+.canada_right p {
   font-size: 16px;
 }
-.canada_btn_red{
+.canada_btn_red {
   background-color: rgb(241, 32, 32);
   padding: 5px 16px;
   color: white;
   border-radius: 6px;
   margin-top: 3%;
 }
-.canada_btn{
+.canada_btn {
   background: transparent;
   padding: 5px 16px;
   color: rgb(241, 32, 32);
@@ -586,13 +574,10 @@ i {
   margin-left: 2%;
 }
 
-.usa_left{
+.usa_left {
   margin-left: 8%;
 }
-=======
-}
 
->>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
 @media screen and (max-width: 800px) and (min-width: 350px) {
   .first {
     width: 80%;
@@ -695,21 +680,20 @@ i {
   .last {
     margin-bottom: 30%;
   }
-<<<<<<< HEAD
 
   /*   ABOUT-US RESPOSIVENESS */
-  .about_big{
+  .about_big {
     font-size: 30px;
   }
-  .about_top{
+  .about_top {
     width: 100%;
     margin-left: 0;
   }
-  .top_p{
+  .top_p {
     margin-right: 90%;
     width: 80%;
   }
-  .about_P{
+  .about_P {
     font-size: 15px;
     width: 100%;
     margin-left: 0%;
@@ -727,71 +711,69 @@ i {
     margin-left: 0%;
     padding-right: 20%;
   }
-  .infos{
+  .infos {
     grid-template-columns: 1fr;
   }
-  .title{
+  .title {
     margin-bottom: 8%;
     font-size: 30px;
   }
-  .info_img img{
+  .info_img img {
     width: 100px;
   }
-  .third_title{
+  .third_title {
     font-size: 24px;
   }
-  .three{
+  .three {
     flex-direction: column;
     text-align: center;
     margin-left: 30%;
   }
-  .one_third{
+  .one_third {
     width: 55%;
     text-align: center;
     margin-top: 8%;
   }
 
-  .down_side{
+  .down_side {
     margin-top: 18%;
     margin-left: 2%;
   }
 
-  .pledge_title{
+  .pledge_title {
     margin-bottom: 2%;
   }
-  .peace{
+  .peace {
     margin-top: 12%;
   }
-  .down_side p{
+  .down_side p {
     font-size: 14px;
   }
-  .press{
+  .press {
     margin-top: 18%;
     margin-bottom: 24%;
   }
-  .press_title{
+  .press_title {
     font-size: 24px;
     margin-bottom: 3%;
   }
-  .company{
+  .company {
     font-size: 14px;
     width: 50%;
   }
-  .rip_icon{
+  .rip_icon {
     width: 40%;
   }
-  .rip_icon img{
+  .rip_icon img {
     width: 20%;
   }
 
   /*   LOGIN PAGE RESPONSIVENESS */
-  .login{
+  .login {
     width: 90%;
     margin-left: 5%;
     margin-top: 16%;
   }
-=======
->>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
 }
 
 @media screen and (max-width: 1036px) and (min-width: 800px) {
@@ -904,75 +886,72 @@ i {
   .like {
     padding-right: 3%;
   }
-<<<<<<< HEAD
 
   /*   ABOUT PAGE RESPONSIVENESS */
-  .info_img img{
+  .info_img img {
     width: 100px;
   }
-  .about_mid{
+  .about_mid {
     width: 88%;
     margin-left: 5%;
   }
-  .three{
+  .three {
     flex-direction: column;
     text-align: center;
     margin-left: 38%;
   }
-  .one_third{
+  .one_third {
     width: 33%;
     text-align: center;
     margin-top: 8%;
   }
-  .third_title{
+  .third_title {
     font-size: 26px;
     text-align: center;
   }
-  .down_side{
+  .down_side {
     margin-top: 10%;
     margin-left: 12%;
   }
 
-  .pledge_title{
+  .pledge_title {
     margin-bottom: 2%;
     width: 100%;
   }
-  .pledge{
+  .pledge {
     width: 80%;
   }
-  .peace{
+  .peace {
     margin-top: 4%;
     width: 80%;
   }
-  .press{
+  .press {
     margin-top: 18%;
     margin-bottom: 24%;
     padding-left: 8%;
     padding-right: 8%;
   }
-  .press_title{
+  .press_title {
     font-size: 24px;
     margin-bottom: 3%;
   }
-  .company{
+  .company {
     font-size: 16px;
     width: 50%;
   }
-  .rip_icon{
+  .rip_icon {
     width: 40%;
   }
-  .rip_icon img{
+  .rip_icon img {
     width: 20%;
   }
-  .news h4{
-    margin-left:3%;
+  .news h4 {
+    margin-left: 3%;
   }
 
   /*   LOGIN PAGE RESPONSIVENESS */
-  .login{
+  .login {
     width: 60%;
-   margin-left: 20%;
+    margin-left: 20%;
   }
-=======
->>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
 }
