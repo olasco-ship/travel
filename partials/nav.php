@@ -20,10 +20,14 @@
                     <div class="header-social-link style2">
                         <ul>
                             <li>
+                                 <a href="login.php">
                                  <button type="button" class="btn btn-primary" href="#">Log In</button> 
+                                 </a>
                             </li>
                             <li>
+                                <a href="sign-up.php">
                                 <button type="button" class="btn btn-outline-primary">Sign Up</button> 
+                                </a>
                             </li>
                             <!-- <li>
                                 <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
@@ -46,7 +50,7 @@
                 <!--Start Header Left-->
                 <div class="header-left-style2 clearfix pull-left">
                     <div class="logo">
-                        <a href="index.php"><img src="assets/images/resources/latent_n_logo.png" alt="Awesome Logo" title=""></a>
+                        <a href="index.php"><img src="assets/images/resources/Latent_Logo.png" alt="Awesome Logo" title=""></a>
                     </div>
                 </div>
                 <!--End Header Left-->
@@ -65,11 +69,11 @@
                         <nav class="main-menu style2 navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class="current"><a href="#">Visas</a></li>
+                                    <li><a href="visas.php">Visas</a></li>
                                     <li><a href="#">Resources</a></li>
-                                    <li><a href="#">Partners</a></li>
-                                    <li><a href="us_filter.php">About Us</a></li>
-                                    <li><a href="#">Blog</a></li>
+                                    <li><a href="partners.php">Partners</a></li>
+                                    <li><a href="about-us.php">About Us</a></li>
+                                    <li><a href="">Blog</a></li>
                                 </ul>
                             </div>
                         </nav>                        

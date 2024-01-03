@@ -11,6 +11,10 @@
   width: 50%;
   margin-right: 1%;
 }
+.left-canada {
+  width: 50%;
+  margin-right: 1%;
+}
 .main {
   display: flex;
   margin-left: 3%;
@@ -38,7 +42,12 @@
   margin-top: 4%;
   color: grey;
   width: 100%;
-  height: 450px;
+  height: 550px;
+  margin-bottom: 20%;
+}
+
+.canada {
+  height: 750px;
 }
 
 .bottom p {
@@ -50,7 +59,7 @@
   padding-right: 4%;
 }
 #reset {
-  margin-left: 41%;
+  margin-left: 31%;
   color: rgb(0, 153, 255);
   font-weight: 500;
   border: none;
@@ -70,6 +79,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
+  margin-bottom: 10%;
 }
 .single {
   border: 2px solid rgba(150, 144, 144, 0.274);
@@ -102,11 +112,17 @@
 }
 .icon {
   margin-left: 80%;
+  font-size: 10px;
+  color: black;
+}
+[class^="bi-"]::before,
+[class*=" bi-"]::before {
+  font-size: 14px;
 }
 
 .hide {
   display: none;
-  height: 216px;
+  height: 260px;
 }
 .show {
   display: block;
@@ -134,7 +150,7 @@
 
 /* HEAD */
 .head {
-  margin-top: 3%;
+  margin-top: 15%;
 }
 .first {
   margin-left: 5%;
@@ -165,6 +181,7 @@ i {
 }
 .second {
   margin-left: 4%;
+  /* margin-top: 5%; */
 }
 .second h3 {
   color: rgb(0, 102, 255);
@@ -175,10 +192,394 @@ i {
   color: rgb(148, 148, 148);
   font-size: 16px;
 }
+/*  PARTNERS PAGE STYLE */
+.top {
+  margin-left: 8%;
+  margin-top: 5%;
+  text-align: center;
+}
 
-@media screen and (max-width: 800px) and (min-width: 500px) {
+.big {
+  font-size: 30px;
+  margin-bottom: 1%;
+}
+.smallp {
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+.mid {
+  display: flex;
+  flex-direction: row;
+  gap: 38px;
+  margin-top: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+.subs {
+  padding: 20px;
+}
+.bi-hand-thumbs-up::before {
+  font-size: 22px;
+  color: rgb(201, 67, 40);
+  font-weight: 900;
+}
+.bi-patch-check::before {
+  font-size: 22px;
+  color: rgb(201, 67, 40);
+  font-weight: 900;
+}
+.bi-currency-dollar::before {
+  font-size: 22px;
+  color: rgb(201, 67, 40);
+  font-weight: 900;
+  border-radius: 50%;
+  border: 2px solid rgb(201, 67, 40);
+}
+
+.last {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5%;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+.img_side {
+  width: 50%;
+}
+.img_side img {
+  width: 55%;
+  height: 200px;
+  border-radius: 8px;
+  margin-left: 35%;
+}
+.one {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 3%;
+}
+.primary {
+  border: 2px solid rgb(201, 67, 40);
+  padding: 4px 8px;
+  border-radius: 5px;
+  margin-top: 10%;
+}
+.primary:hover {
+  background-color: rgba(127, 125, 125, 0.187);
+  transition: all 400ms ease-in;
+}
+.write_up {
+  width: 40%;
+}
+.write_up p {
+  margin-top: 1%;
+}
+
+/*  ABOUT-US STYLE */
+.blue {
+  color: red;
+}
+.about_big {
+  font-size: 58px;
+  font-weight: bolder;
+}
+.about_p {
+  width: 45%;
+  font-size: 15px;
+  margin-left: 7%;
+}
+.p_nd {
+  width: 65%;
+  font-size: 15px;
+  padding-right: 10%;
+  margin-left: 2%;
+}
+.p_rd {
+  width: 55%;
+  font-size: 15px;
+  margin-left: 2%;
+}
+.top_p {
+  margin-left: 20%;
+  margin-top: 3%;
+  width: 100%;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+}
+.about_mid {
+  margin-top: 10%;
+  border-top: 1px solid rgba(0, 149, 255, 0.47);
+  padding-top: 8%;
+  border-bottom: 1px solid rgba(0, 149, 255, 0.47);
+  padding-bottom: 8%;
+}
+
+.info_img img {
+  width: 130px;
+}
+.flag_one img {
+  width: 30px;
+  padding-right: 2%;
+}
+.name {
+  padding-top: 3%;
+}
+
+.infos {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin-top: 6%;
+  margin-left: 3%;
+  text-align: center;
+  gap: 40px;
+  color: rgb(182, 42, 42);
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.thrid {
+  margin-top: 10%;
+  text-align: center;
+}
+
+.third_title {
+  font-size: 30px;
+}
+.three {
+  display: flex;
+  flex-direction: row;
+  gap: 20%;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+.one_third {
+  width: 16%;
+  text-align: left;
+}
+
+.down_side {
+  text-align: left;
+  margin-left: 1%;
+  margin-top: 8%;
+}
+
+.press {
+  margin-top: 6%;
+}
+.press_title {
+  text-align: center;
+  font-size: 30px;
+}
+.each_news {
+  color: black;
+}
+.date {
+  color: grey;
+}
+.company {
+  color: black;
+  font-size: 24px;
+  font-weight: 700;
+  padding-bottom: 5%;
+}
+.company:hover{
+  color: black;
+}
+.rip_icon img {
+  width: 10%;
+  float: right;
+}
+.main_news {
+  margin-top: 3%;
+  margin-bottom: 10%;
+}
+.each_news{
+  padding: 15px;
+}
+
+
+/*   LOGIN_PAGE STYLE */
+.login{
+  background-color: rgba(228, 228, 228, 0.473);
+  width: 35%;
+  height: 560px;
+  margin-bottom: 18%;
+  margin-top: 6%;
+  margin-left: 34%;
+  padding: 20px;
+  border-radius: 8px;
+}
+.login_title{
+  text-align: center;
+  font-size: 24px;
+}
+.mail{
+  width: 100%;
+  background: transparent;
+  border: 1px solid gray;
+  border-radius: 3px;
+  padding: 6px;
+  padding-left: 2rem;
+}
+.mail:focus{
+  border: 2px solid rgba(255, 0, 0, 0.808);
+}
+
+.inputs{
+  margin-top: 6%;
+}
+.in_name{
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 2%;
+}
+
+
+.input_one{
+  margin-top: 5%;
+}
+
+.options{
+  margin-top: 5%;
+  text-decoration: underline;
+}
+.login_btn_btn-primary{
+  text-align: center;
+  background-color: rgb(230, 50, 50);
+  color: white;
+  padding: 4px 30px;
+  border-radius: 5px;
+  margin-top: 5%;
+}
+.login_btn_btn-primary:hover{
+  box-shadow: 1px 10px 9px rgba(0, 0, 0, 0.274);
+  transition: all 500ms ease-in-out;
+}
+.goggle_btn_btn-primary{
+  background: transparent;
+  border: 1px solid gray;
+  border-radius: 2px;
+  padding: 5px 5px;
+}
+.bi-google::before{
+  font-size: 18px;
+  color: rgb(23, 165, 23);
+}
+.ic img{
+  width: 20%;
+}
+.button{
+  text-align: center;
+}
+.lines{
+  text-align: center;
+}
+.goggle{
+  margin-bottom: 5%;
+}
+
+/*  SIGN UP PAGE STYLE */
+
+.sign_mid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.sign-up{
+  padding-left: 2%;
+  padding-right: 2%;
+  height: 820px;
+}
+
+.lond{
+  margin-right: 3%;
+}
+.update{
+  cursor: pointer;
+}
+
+.have{
+  text-align: center;
+}
+
+.policy{
+  font-size: 10px;
+  text-align: center;
+  margin-top: 8%;
+}
+.policy a{
+  color: gray;
+}
+
+/*   VISA PAGE STYLE */
+.visa_top{
+  text-align: center;
+  margin-top: 10%;
+}
+.visa_title{
+  font-size: 50px;
+  font-weight: bolder;
+  margin-bottom: 1%;
+}
+.canada_visa{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-top: 8%;
+  margin-bottom: 10%;
+  margin-left: 5%;
+}
+.canada_left{
+  width: 100%;
+}
+.canada_right{
+  margin-top: 3%;
+  width: 85%;
+}
+.canada_right ul li{
+  color: rgb(236, 59, 59);
+}
+.bi-check2::before{
+  color: rgb(236, 42, 42);
+}
+.canada_left img{
+  width: 80%;
+  height: 380px;
+  margin-left: 10%;
+}
+.right_head{
+  font-size: 30px;
+  margin:3% 0;
+}
+.canada_right p{
+  font-size: 16px;
+}
+.canada_btn_red{
+  background-color: rgb(241, 32, 32);
+  padding: 5px 16px;
+  color: white;
+  border-radius: 6px;
+  margin-top: 3%;
+}
+.canada_btn{
+  background: transparent;
+  padding: 5px 16px;
+  color: rgb(241, 32, 32);
+  border: 1px solid rgb(241, 32, 32);
+  border-radius: 6px;
+  margin-left: 2%;
+}
+
+.usa_left{
+  margin-left: 8%;
+}
+@media screen and (max-width: 800px) and (min-width: 350px) {
   .first {
     width: 80%;
+    margin-top: 10%;
   }
   .single {
     width: 96%;
@@ -200,30 +601,194 @@ i {
   .left {
     width: 95%;
     margin-left: 2px;
+    margin-bottom: 15%;
+    height: 640px;
+  }
+  .left-canada {
+    width: 95%;
+    margin-left: 2px;
+    margin-bottom: 15%;
+    height: 950px;
   }
   .field {
     width: 100%;
   }
   #reset {
-    margin-left: 54%;
+    margin-left: 42%;
   }
 
   .right {
     grid-template-columns: repeat(1, 1fr);
+    margin-top: 10%;
+    margin-bottom: 10%;
   }
   input[type="range" i] {
     cursor: pointer;
     width: 100%;
+  }
+  .second {
+    margin-top: 20%;
+  }
+  .bottom {
+    height: 100%;
+    margin-bottom: 5%;
+  }
+  .canada {
+    height: 100%;
+  }
+  /*  PARTNERS RESPONSIVENESS */
+  .top {
+    margin-top: 30%;
+    margin-right: 3%;
+  }
+  .smallp {
+    font-size: 16px;
+  }
+  .mid {
+    flex-direction: column;
+    gap: 1px;
+    margin-top: 28%;
+    margin-right: 3%;
+  }
+  .subs {
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+  .one {
+    flex-direction: column;
+  }
+  .img_side {
+    width: 100%;
+    margin: 0;
+  }
+  .img_side img {
+    width: 100%;
+    margin: 0;
+    padding-right: 3%;
+    height: 100%;
+  }
+  .write_up {
+    width: 100%;
+    margin-top: 8%;
+  }
+  .primary {
+    width: 98%;
+    margin-right: 3%;
+  }
+  .last {
+    margin-bottom: 30%;
+  }
+
+  /*   ABOUT-US RESPOSIVENESS */
+  .about_big{
+    font-size: 30px;
+  }
+  .about_top{
+    width: 100%;
+    margin-left: 0;
+  }
+  .top_p{
+    margin-right: 90%;
+    width: 80%;
+  }
+  .about_P{
+    font-size: 15px;
+    width: 100%;
+    margin-left: 0%;
+    padding-right: 20%;
+  }
+  .p_nd {
+    width: 100%;
+    font-size: 15px;
+    margin-left: 0%;
+    padding-right: 20%;
+  }
+  .p_rd {
+    width: 100%;
+    font-size: 15px;
+    margin-left: 0%;
+    padding-right: 20%;
+  }
+  .infos{
+    grid-template-columns: 1fr;
+  }
+  .title{
+    margin-bottom: 8%;
+    font-size: 30px;
+  }
+  .info_img img{
+    width: 100px;
+  }
+  .third_title{
+    font-size: 24px;
+  }
+  .three{
+    flex-direction: column;
+    text-align: center;
+    margin-left: 30%;
+  }
+  .one_third{
+    width: 55%;
+    text-align: center;
+    margin-top: 8%;
+  }
+
+  .down_side{
+    margin-top: 18%;
+    margin-left: 2%;
+  }
+
+  .pledge_title{
+    margin-bottom: 2%;
+  }
+  .peace{
+    margin-top: 12%;
+  }
+  .down_side p{
+    font-size: 14px;
+  }
+  .press{
+    margin-top: 18%;
+    margin-bottom: 24%;
+  }
+  .press_title{
+    font-size: 24px;
+    margin-bottom: 3%;
+  }
+  .company{
+    font-size: 14px;
+    width: 50%;
+  }
+  .rip_icon{
+    width: 40%;
+  }
+  .rip_icon img{
+    width: 20%;
+  }
+
+  /*   LOGIN PAGE RESPONSIVENESS */
+  .login{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 16%;
   }
 }
 
 @media screen and (max-width: 1036px) and (min-width: 800px) {
   .main {
     flex-direction: column;
+    margin-bottom: 10%;
+    gap: 90px;
   }
   .left {
     width: 87%;
     margin-left: 4%;
+    height: 600px;
+  }
+  .left-canada {
+    width: 87%;
+    margin-left: 4%;
+    height: 800px;
   }
   .right {
     width: 85%;
@@ -232,7 +797,7 @@ i {
     margin-top: 5%;
   }
   #reset {
-    margin-left: 74%;
+    margin-left: 64%;
   }
   .bottom p {
     padding-top: 14px;
@@ -251,5 +816,140 @@ i {
   .icon {
     margin-left: 3%;
     width: 1%;
+  }
+  .second {
+    margin-top: 10%;
+    margin-left: 7%;
+  }
+  .bottom {
+    height: 100%;
+    margin-bottom: 0;
+  }
+  .canada {
+    height: 100%;
+    margin-bottom: 0;
+  }
+  /*  PARTNERS RESPONSIVENESS */
+  .top {
+    margin-top: 30%;
+    margin-right: 3%;
+  }
+  .smallp {
+    font-size: 16px;
+  }
+  .mid {
+    flex-direction: column;
+    gap: 1px;
+    margin-top: 28%;
+    margin-right: 3%;
+  }
+  .subs {
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+  .one {
+    flex-direction: column;
+  }
+  .img_side {
+    width: 100%;
+    margin: 0;
+  }
+  .img_side img {
+    width: 100%;
+    margin: 0;
+    padding-right: 3%;
+    height: 100%;
+  }
+  .write_up {
+    width: 100%;
+    margin-top: 8%;
+  }
+  .write_up p {
+    margin-bottom: 2%;
+  }
+  .primary {
+    width: 98%;
+    margin-right: 3%;
+    margin-top: 0;
+  }
+  .last {
+    margin-bottom: 30%;
+  }
+  .easy {
+    font-size: 26px;
+  }
+  .end {
+    font-size: 20px;
+  }
+  .like {
+    padding-right: 3%;
+  }
+
+  /*   ABOUT PAGE RESPONSIVENESS */
+  .info_img img{
+    width: 100px;
+  }
+  .about_mid{
+    width: 88%;
+    margin-left: 5%;
+  }
+  .three{
+    flex-direction: column;
+    text-align: center;
+    margin-left: 38%;
+  }
+  .one_third{
+    width: 33%;
+    text-align: center;
+    margin-top: 8%;
+  }
+  .third_title{
+    font-size: 26px;
+    text-align: center;
+  }
+  .down_side{
+    margin-top: 10%;
+    margin-left: 12%;
+  }
+
+  .pledge_title{
+    margin-bottom: 2%;
+    width: 100%;
+  }
+  .pledge{
+    width: 80%;
+  }
+  .peace{
+    margin-top: 4%;
+    width: 80%;
+  }
+  .press{
+    margin-top: 18%;
+    margin-bottom: 24%;
+    padding-left: 8%;
+    padding-right: 8%;
+  }
+  .press_title{
+    font-size: 24px;
+    margin-bottom: 3%;
+  }
+  .company{
+    font-size: 16px;
+    width: 50%;
+  }
+  .rip_icon{
+    width: 40%;
+  }
+  .rip_icon img{
+    width: 20%;
+  }
+  .news h4{
+    margin-left:3%;
+  }
+
+  /*   LOGIN PAGE RESPONSIVENESS */
+  .login{
+    width: 60%;
+   margin-left: 20%;
   }
 }

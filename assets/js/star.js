@@ -143,7 +143,6 @@ noEl.addEventListener('click' , () => {
         const bo = jo
         sin.forEach((si) => {
             if(noEl.checked === true){
-                console.log('hvgd')
                 jo.parentElement.classList.add('hide')
                 si.classList.add('show')
             } 
@@ -172,6 +171,85 @@ inputEl.addEventListener('click' , () => {
                 //    work.parentElement.classList.add('show')
                 //     sing.classList.add('hide')
                 // })
+            }
+        })
+    })
+})
+
+// LANGUAGE
+const lanBtnEl = document.querySelectorAll('#lan') 
+const BtnElNoEnglish = document.querySelector('.no')
+const eleBtnEl = document.querySelector('.ele')
+const limiBtnEl = document.querySelector('.limi')
+const proBtnEl = document.querySelector('.pro')
+const fullBtnEl = document.querySelector('.full')
+const nativeBtnEl = document.querySelector('.native')
+
+lanBtnEl.forEach((language) => {
+    language.addEventListener('click', () => {
+        job.forEach((jo) => {
+            const bo = jo
+            sin.forEach((si) => {
+                if(jo.textContent === 'CBL 4'){
+                    jo.parentElement.classList.add('show')
+                    si.classList.add('hide')
+                }
+            })
+        })
+    })
+})
+
+eleBtnEl.addEventListener('click', () => {
+    job.forEach((jo) => {
+        const bo = jo
+        sin.forEach((si) => {
+            if(jo.textContent === 'CBL 5'){
+                jo.parentElement.classList.add('show')
+                si.classList.add('hide')
+            }
+        })
+    })
+})
+limiBtnEl.addEventListener('click', () => {
+    job.forEach((jo) => {
+        const bo = jo
+        sin.forEach((si) => {
+            if(jo.textContent === 'CBL 5'){
+                jo.parentElement.classList.add('show')
+                si.classList.add('hide')
+            }
+        })
+    })
+})
+proBtnEl.addEventListener('click', () => {
+    job.forEach((jo) => {
+        const bo = jo
+        sin.forEach((si) => {
+            if(jo.textContent === 'CBL 5'){
+                jo.parentElement.classList.add('show')
+                si.classList.add('hide')
+            }
+        })
+    })
+})
+fullBtnEl.addEventListener('click', () => {
+    job.forEach((jo) => {
+        const bo = jo
+        sin.forEach((si) => {
+            if(jo.textContent === 'CBL 7'){
+                jo.parentElement.classList.add('show')
+                si.classList.add('hide')
+            }
+        })
+    })
+})
+nativeBtnEl.addEventListener('click', () => {
+    job.forEach((jo) => {
+        const bo = jo
+        sin.forEach((si) => {
+            if(jo.textContent === 'CBL 7'){
+                jo.parentElement.classList.add('show')
+                si.classList.add('hide')
             }
         })
     })
