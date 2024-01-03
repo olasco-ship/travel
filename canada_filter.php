@@ -16,14 +16,13 @@
             <a href="#"><span class="text">Visas</span></a><span class="icon"><i class="bi bi-chevron-right"></i></span><a href="#"><span class="text">Canada</span></a> <span class="icon"><i class="bi bi-chevron-right"></i></span><a href="#"><span class="text">List</span></a>
         </div>
     <div class="row">    
-        <div class="col-sm-8 second">
         <div class="second">
             <h3>Find the Right Canadian visa</h3>
             <p>
                 Use our filter to see what visas we offer and what their basic requirements are
             </p>
         </div>
-        <div class="col-sm-4">
+        <div>
          <a href="eligbil.html"><button type="button" class="btn btn-outline-primary" hr>Check My Eligibility</button></a>
         </div>
     </div>
