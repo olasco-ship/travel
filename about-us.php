@@ -15,9 +15,15 @@
         <h3 class="about_big big">The pursuit of <span class="blue">happiness</span></h3>
         <div class="top_p">
         <p class="smallp about_p">We are immigrants and/or have experienced the visa application process. We believe the immigration experience could be better - simpler, faster, less expensive and with more confidence in the outcome.
+<<<<<<< HEAD
         </p>
         <p class="p_nd smallp">We believe that generative artificial intelligence (AI) and machine vision has the potential to drastically simplify the visa application process. We are reducing the data entry and document generation steps for both the applicant and our expert reviewers. With the proper use of technology, our goal is to make access to expert immigration advice more accessible since it is easy, low cost, supports multiple languages and is accessible to anyone anywhere with an Internet connection.</p>
         <p class="p_rd smallp">Then everyone would be happier.</p>
+=======
+            <p class="p_nd smallp">We believe that generative artificial intelligence (AI) and machine vision has the potential to drastically simplify the visa application process. We are reducing the data entry and document generation steps for both the applicant and our expert reviewers. With the proper use of technology, our goal is to make access to expert immigration advice more accessible since it is easy, low cost, supports multiple languages and is accessible to anyone anywhere with an Internet connection.</p>
+            <p class="p_rd smallp">Then everyone would be happier.</p>
+        </p>
+>>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
         </div>
     </section>
     <section class="about_mid">
@@ -214,6 +220,7 @@
                     <a href="#" class="date">November 2023</a> <br>
                     <a href="" class="company"><span class="rip">Rippling connects Latent to simplify employee travel and immigration</span></a> <a href="#"><span class="rip_icon"><img src="assets/images/resources/rippling.webp" alt=""></span></a>
                 </div>
+<<<<<<< HEAD
                 <div class="each_news">
                     <a href="#" class="date">November 2023</a> <br>
                     <a href="" class="company"><span class="rip">Rippling connects Latent to simplify employee travel and immigration</span></a> <a href="#"><span class="rip_icon"><img src="assets/images/resources/rippling.webp" alt=""></span></a>
@@ -230,6 +237,8 @@
                     <a href="#" class="date">November 2023</a> <br>
                     <a href="" class="company"><span class="rip">Rippling connects Latent to simplify employee travel and immigration</span></a> <a href="#"><span class="rip_icon"><img src="assets/images/resources/rippling.webp" alt=""></span></a>
                 </div>
+=======
+>>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
             </div>
         </div>
     </section>

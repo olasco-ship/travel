@@ -69,11 +69,19 @@
                         <nav class="main-menu style2 navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
+<<<<<<< HEAD
                                     <li><a href="visas.php">Visas</a></li>
                                     <li><a href="#">Resources</a></li>
                                     <li><a href="partners.php">Partners</a></li>
                                     <li><a href="about-us.php">About Us</a></li>
                                     <li><a href="">Blog</a></li>
+=======
+                                    <li class="current"><a href="#">Visas</a></li>
+                                    <li><a href="partners.php">Resources</a></li>
+                                    <li><a href="canada_filter.php">Partners</a></li>
+                                    <li><a href="us_filter.php">About Us</a></li>
+                                    <li><a href="about-us.php">Blog</a></li>
+>>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
                                 </ul>
                             </div>
                         </nav>                        

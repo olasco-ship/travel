@@ -181,7 +181,11 @@ i {
 }
 .second {
   margin-left: 4%;
+<<<<<<< HEAD
   /* margin-top: 5%; */
+=======
+  margin-top: 5%;
+>>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
 }
 .second h3 {
   color: rgb(0, 102, 255);
@@ -312,10 +316,15 @@ i {
 }
 .about_mid {
   margin-top: 10%;
+<<<<<<< HEAD
   border-top: 1px solid rgba(0, 149, 255, 0.47);
   padding-top: 8%;
   border-bottom: 1px solid rgba(0, 149, 255, 0.47);
   padding-bottom: 8%;
+=======
+  border-top: 2px solid rgba(0, 149, 255, 0.47);
+  padding-top: 8%;
+>>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
 }
 
 .info_img img {
@@ -384,10 +393,13 @@ i {
   color: black;
   font-size: 24px;
   font-weight: 700;
+<<<<<<< HEAD
   padding-bottom: 5%;
 }
 .company:hover{
   color: black;
+=======
+>>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
 }
 .rip_icon img {
   width: 10%;
@@ -395,6 +407,7 @@ i {
 }
 .main_news {
   margin-top: 3%;
+<<<<<<< HEAD
   margin-bottom: 10%;
 }
 .each_news{
@@ -576,6 +589,10 @@ i {
 .usa_left{
   margin-left: 8%;
 }
+=======
+}
+
+>>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
 @media screen and (max-width: 800px) and (min-width: 350px) {
   .first {
     width: 80%;
@@ -678,6 +695,7 @@ i {
   .last {
     margin-bottom: 30%;
   }
+<<<<<<< HEAD
 
   /*   ABOUT-US RESPOSIVENESS */
   .about_big{
@@ -772,6 +790,8 @@ i {
     margin-left: 5%;
     margin-top: 16%;
   }
+=======
+>>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
 }
 
 @media screen and (max-width: 1036px) and (min-width: 800px) {
@@ -884,6 +904,7 @@ i {
   .like {
     padding-right: 3%;
   }
+<<<<<<< HEAD
 
   /*   ABOUT PAGE RESPONSIVENESS */
   .info_img img{
@@ -952,4 +973,6 @@ i {
     width: 60%;
    margin-left: 20%;
   }
+=======
+>>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
 }
