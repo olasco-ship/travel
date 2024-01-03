@@ -11,31 +11,25 @@
 <!-- Main header -->
 <?php include('./partials/nav.php') ?>
 
-<scetion class="head">
+<section class="head">
         <div class="first">
             <a href="#"><span class="text">Visas</span></a><span class="icon"><i class="bi bi-chevron-right"></i></span><a href="#"><span class="text">Canada</span></a> <span class="icon"><i class="bi bi-chevron-right"></i></span><a href="#"><span class="text">List</span></a>
         </div>
-<<<<<<< HEAD
     <div class="row">    
         <div class="col-sm-8 second">
-=======
         <div class="second">
->>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
             <h3>Find the Right Canadian visa</h3>
             <p>
                 Use our filter to see what visas we offer and what their basic requirements are
             </p>
         </div>
-<<<<<<< HEAD
         <div class="col-sm-4">
          <a href="eligbil.html"><button type="button" class="btn btn-outline-primary" hr>Check My Eligibility</button></a>
         </div>
     </div>
-    </scetion>
+    </section>
 
-=======
-    </scetion>
->>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
+
     <section class="main">
         
         <div class="left-canada">
