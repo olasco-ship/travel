@@ -3920,7 +3920,7 @@ select:focus {
   display: inline-block;
 }
 .header-left-style2 .logo a img {
-  width: auto;
+  width: 50%;
 }
 
 .header-right-style2 {
@@ -3942,7 +3942,7 @@ select:focus {
   display: none;
 }
 .main-menu.style2 .navigation > li > a {
-  color: #222222;
+  color: #0098ff;
   font-size: 16px;
   line-height: 30px;
   font-weight: 500;
@@ -3951,7 +3951,7 @@ select:focus {
 }
 .main-menu.style2 .navigation > li:hover > a,
 .main-menu.style2 .navigation > li.current > a {
-  color: #0098ff;
+  color: #ff0100 !important;
 }
 
 .any-questions-box {
@@ -3984,7 +3984,7 @@ select:focus {
 }
 .any-questions-box .title a {
   color: #031f4b;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 500;
   font-family: "Archivo", sans-serif;
 }
@@ -4982,9 +4982,9 @@ select:focus {
 .visa-form-box {
   position: relative;
   display: block;
-  padding: 47px 40px 50px;
+  padding: 21px 57px 0px;
   background: #ffffff;
-  max-width: 470px;
+  max-width: 440px;
   width: 100%;
   float: right;
   border-radius: 20px;

@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.head1 {
+  background-color: rgb(18, 111, 250);
+  text-align: center;
+  padding: 3rem 2rem;
+  color: white;
+}
+.text1 p {
+  margin-top: 1%;
+  width: 30%;
+  margin-left: 34%;
+}
+.QA {
+  font-size: 46px;
+}
+input {
+  width: 45%;
+  height: 60px;
+  border-radius: 4px;
+  padding-left: 3%;
+  margin-top: 3%;
+  border: none;
+}
+
+.questions {
+  margin-top: 5%;
+  margin-left: 3%;
+  display: flex;
+  flex-direction: row;
+  gap: 3%;
+}
+.question_right {
+  width: 100%;
+}
+.unto {
+  margin-top: 10%;
+  margin-left: 1%;
+}
+.unto p {
+  font-size: 18px;
+  margin-top: 4%;
+  width: 60%;
+}
+.btn_yes {
+  background-color: rgb(0, 140, 255);
+  padding: 5px 1rem;
+  border: none;
+  color: white;
+}
+.btn_no {
+  background-color: rgba(0, 140, 255, 0.158);
+  padding: 5px 1rem;
+  border: none;
+}
+
+.next {
+  border-bottom: 1px solid rgba(128, 128, 128, 0.212);
+  padding-bottom: 3%;
+  font-size: 22px;
+  color: rgb(61, 61, 61);
+  margin-bottom: 3%;
+  cursor: pointer;
+}
+.main {
+  font-size: 20px;
+  font-weight: 400;
+  color: gray;
+}
+ul {
+  margin-top: 4%;
+}
+li {
+  margin-bottom: 1%;
+  cursor: pointer;
+  font-size: 18px;
+  color: grey;
+  margin-left: 4%;
+}
+li:active {
+  color: rgb(18, 111, 250);
+}
+li:hover {
+  color: rgb(18, 111, 250);
+}
+
+.stypermit {
+  margin-top: 8%;
+  padding-left: 1%;
+}
+
+/* STYLES FOR JAVASCRIPT */
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}

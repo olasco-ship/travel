@@ -254,11 +254,11 @@ i {
   border-radius: 8px;
   margin-left: 35%;
 }
-.one {
+/* .one {
   display: flex;
   flex-direction: row;
   margin-bottom: 3%;
-}
+} */
 .primary {
   border: 2px solid rgb(201, 67, 40);
   padding: 4px 8px;
@@ -344,7 +344,7 @@ i {
   font-size: 20px;
 }
 
-.thrid {
+.thirsd {
   margin-top: 10%;
   text-align: center;
 }

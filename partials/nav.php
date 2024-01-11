@@ -1,3 +1,7 @@
+
+<?php 
+$pageName = substr($_SERVER['SCRIPT_NAME'], strrpos($_SERVER['SCRIPT_NAME'], "/") +1);
+?>
 <header class="main-header header-style-two">
     <div class="header-top">
         <div class="container">
@@ -5,7 +9,6 @@
                 <div class="header-top-left pull-left">
                     <ul>
                         <li><span>Office:</span> Fredericton, Canada</li>
-                        <li><span>Email:</span> <a href="mailto:info@templatepath.com">support@latentimmigration.ca</a></li>
                     </ul>
                 </div>
                 <div class="header-top-right clearfix pull-right">
@@ -69,11 +72,11 @@
                         <nav class="main-menu style2 navbar-expand-md navbar-light">
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
-                                    <li class="<?php if($page=='visas'){echo 'active';}?>"><a href="visas.php">Visas</a></li>
-                                    <li class="<?php if($page=='resources'){echo 'active';}?>"><a href="#">Resources</a></li>
-                                    <li class="<?php if($page=='partners'){echo 'active';}?>"><a href="partners.php">Partners</a></li>
-                                    <li class="<?php if($page=='about'){echo 'active';}?>"><a href="about-us.php">About Us</a></li>
-                                    <li class="<?php if($page=='blog'){echo 'active';}?>"><a href="">Blog</a></li>
+                                    <li <?= $pageName == 'visas.php' ? 'current':''; ?>><a href="visas.php">Visas</a></li>
+                                    <li <?= $pageName == 'resources.php' ? 'current':''; ?>><a   href="resources.php">Resources</a></li>
+                                    <li><a <?= $pageName == 'partners.php' ? 'current':''; ?>   href="partners.php">Partners</a></li>
+                                    <li><a <?= $pageName == 'about-us.php' ? 'current':''; ?>   href="about-us.php">About Us</a></li>
+                                    <li><a href="">Blog</a></li>
                                 </ul>
                             </div>
                         </nav>                        
@@ -86,7 +89,7 @@
                         </div>
                         <div class="title">
                             <h4>Have any Questions?</h4>
-                            <!-- <a href="tel:123456789">+1 647 8759 477</a> -->
+                            <a href="mailto:info@templatepath.com">support@latentimmigration.ca</a>
                         </div>    
                     </div>  
                       
