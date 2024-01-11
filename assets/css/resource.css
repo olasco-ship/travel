@@ -21,14 +21,14 @@
 .QA {
   font-size: 46px;
 }
-input {
+/* input {
   width: 45%;
   height: 60px;
   border-radius: 4px;
   padding-left: 3%;
   margin-top: 3%;
   border: none;
-}
+} */
 
 .questions {
   margin-top: 5%;

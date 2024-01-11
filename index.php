@@ -48,10 +48,10 @@
                             <div class="bottom1">
                                 <div>
                                     <ul>
-                                        <li><span class="a" style="width: 30px;" ><img src="assets/images/test(2).png" alt=""></span> Confirmation</li>
-                                        <li><span class="img b"><img src="assets/images/test(2).png" alt=""></span> Secure Document Upload</li>
-                                        <li><span class="img c"><img src="assets/images/test(2).png" alt=""></span> Simple Fee Payment</li>
-                                        <li><span class="img d"><img src="assets/images/test(2).png" alt=""></span> Submit to Government</li>
+                                        <li><span class="a" style="width: 30px;" ><img src="assets/images/image.png" alt=""></span> Confirmation</li>
+                                        <li><span class="img b"><img src="assets/images/image.png" alt=""></span> Secure Document Upload</li>
+                                        <li><span class="img c"><img src="assets/images/image.png" alt=""></span> Simple Fee Payment</li>
+                                        <li><span class="img d"><img src="assets/images/image.png" alt=""></span> Submit to Government</li>
                                     </ul>
                                 </div>
                             </div>
@@ -88,10 +88,10 @@
                             <div class="bottom1">
                                 <div>
                                     <ul>
-                                        <li><span class="a" style="width: 30px;" ><img src="assets/images/test(2).png" alt=""></span> Confirmation</li>
-                                        <li><span class="img b"><img src="assets/images/test(2).png" alt=""></span> Secure Document Upload</li>
-                                        <li><span class="img c"><img src="assets/images/test(2).png" alt=""></span> Simple Fee Payment</li>
-                                        <li><span class="img d"><img src="assets/images/test(2).png" alt=""></span> Submit to Government</li>
+                                        <li><span class="a" style="width: 30px;" ><img src="assets/images/image.png" alt=""></span> Confirmation</li>
+                                        <li><span class="img b"><img src="assets/images/image.png" alt=""></span> Secure Document Upload</li>
+                                        <li><span class="img c"><img src="assets/images/image.png" alt=""></span> Simple Fee Payment</li>
+                                        <li><span class="img d"><img src="assets/images/image.png" alt=""></span> Submit to Government</li>
                                     </ul>
                                 </div>
                             </div>

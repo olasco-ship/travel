@@ -74,7 +74,7 @@ $pageName = substr($_SERVER['SCRIPT_NAME'], strrpos($_SERVER['SCRIPT_NAME'], "/"
                                 <ul class="navigation clearfix">
                                     <li <?= $pageName == 'visas.php' ? 'current':''; ?>><a href="visas.php">Visas</a></li>
                                     <li <?= $pageName == 'resources.php' ? 'current':''; ?>><a   href="resources.php">Resources</a></li>
-                                    <li><a <?= $pageName == 'partners.php' ? 'current':''; ?>   href="partners.php">Partners</a></li>
+                                    <!-- <li><a <?= $pageName == 'partners.php' ? 'current':''; ?>   href="partners.php">Partners</a></li> -->
                                     <li><a <?= $pageName == 'about-us.php' ? 'current':''; ?>   href="about-us.php">About Us</a></li>
                                     <li><a href="">Blog</a></li>
                                 </ul>
