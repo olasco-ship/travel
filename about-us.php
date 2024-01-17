@@ -226,7 +226,7 @@
                     <a href="#" class="date">November 2023</a> <br>
                     <a href="" class="company"><span class="rip">Rippling connects Latent to simplify employee travel and immigration</span></a> <a href="#"><span class="rip_icon"><img src="assets/images/resources/rippling.webp" alt=""></span></a>
                 </div>
-<<<<<<< HEAD
+
                 <div class="each_news">
                     <a href="#" class="date">November 2023</a> <br>
                     <a href="" class="company"><span class="rip">Rippling connects Latent to simplify employee travel and immigration</span></a> <a href="#"><span class="rip_icon"><img src="assets/images/resources/rippling.webp" alt=""></span></a>
@@ -243,8 +243,6 @@
                     <a href="#" class="date">November 2023</a> <br>
                     <a href="" class="company"><span class="rip">Rippling connects Latent to simplify employee travel and immigration</span></a> <a href="#"><span class="rip_icon"><img src="assets/images/resources/rippling.webp" alt=""></span></a>
                 </div>
-=======
->>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
             </div>
         </div>
     </section>
