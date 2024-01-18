@@ -1,6 +1,7 @@
 <head>
 	<title>Home One || Migrate || Immigration Service Responsive HTML 5 Template</title>
     <?php $page = 'about';include('./partials/header.php') ?>
+
 </head>
 
 <body>
@@ -11,28 +12,48 @@
 <!-- Main header -->
 <?php include('./partials/nav.php') ?>
 
+<?php include('./admin/function/function.php') ?> 
+
+<?php 
+    $count=1;
+    $data=sqlfetch("SELECT * FROM `about` where id='1' order by id");
+    foreach($data as $menu)
+    { ?>
+
+
     <section class="about_top top">
         <h3 class="about_big big">The pursuit of <span class="blue">happiness</span></h3>
         <div class="top_p">
-            <p class="smallp about_p">
-                We are immigrants and/or have experienced the visa application process. We believe the immigration experience could be better - simpler, faster, less expensive and with more confidence in the outcome.
-            </p>
-            <p class="p_nd smallp">
-                We believe that generative artificial intelligence (AI) and machine vision has the potential to drastically simplify the visa application process. We are reducing the data entry and document generation steps for both the applicant and our expert reviewers. With the proper use of technology, our goal is to make access to expert immigration advice more accessible since it is easy, low cost, supports multiple languages and is accessible to anyone anywhere with an Internet connection.
-            </p>
-            <p class="p_rd smallp">
-                Then everyone would be happier.
-            </p>
-            <p class="p_nd smallp">
-                We believe that generative artificial intelligence (AI) and machine vision has the potential to drastically simplify the visa application process. We are reducing the data entry and document generation steps for both the applicant and our expert reviewers. With the proper use of technology, our goal is to make access to expert immigration advice more accessible since it is easy, low cost, supports multiple languages and is accessible to anyone anywhere with an Internet connection.
-            </p>
-            <p class="p_rd smallp">
-                Then everyone would be happier.
-            </p>
+
+
+            <p class="smallp about_p"><?php echo $menu['des']; ?>
+                <!-- We are immigrants and/or have experienced the visa application process. We believe the immigration experience could be better - simpler, faster, less expensive and with more confidence in the outcome. -->
+
+
+            <!-- </p> -->
+            
+            
+
+
+            <!-- <p class="p_nd smallp"> -->
+               <!--  We believe that generative artificial intelligence (AI) and machine vision has the potential to drastically simplify the visa application process. We are reducing the data entry and document generation steps for both the applicant and our expert reviewers. With the proper use of technology, our goal is to make access to expert immigration advice more accessible since it is easy, low cost, supports multiple languages and is accessible to anyone anywhere with an Internet connection. -->
+            <!-- </p>
+            <p class="p_rd smallp"> -->
+                <!-- Then everyone would be happier. -->
+            <!-- </p>
+            <p class="p_nd smallp"> -->
+                <!-- We believe that generative artificial intelligence (AI) and machine vision has the potential to drastically simplify the visa application process. We are reducing the data entry and document generation steps for both the applicant and our expert reviewers. With the proper use of technology, our goal is to make access to expert immigration advice more accessible since it is easy, low cost, supports multiple languages and is accessible to anyone anywhere with an Internet connection. -->
+            <!-- </p>
+            <p class="p_rd smallp"> -->
+                <!-- Then everyone would be happier. -->
+            <!-- </p> -->
+        </p>
+            <?php } ?>
         </div>
     </section>
 
-    <section class="about_mid">
+
+    <!-- <section class="about_mid">
         <h3 class="title">SuperVisas <span class="blue">team</span></h3>
         <div class="infos">
         <div class="info">
@@ -168,9 +189,9 @@
             </div>
         </div>
         </div>
-    </section>
+    </section> -->
     <section class="thrid">
-        <h3 class="third_title">
+        <h3 class="third_title" style="margin-top: 10%; text-align: center !important;">
         Our mission is to provide the easiest, fastest, most accurate <br>and lowest cost immigration service on the planet.
         </h3>
         <div class="three">
@@ -217,7 +238,7 @@
             </div>
         </div>
     </section>
-    <section class="press">
+    <!-- <section class="press">
         <h3 class="blue press_title">Press</h3>
         <div class="news">
             <h4>Latent in the news</h4>
@@ -226,7 +247,7 @@
                     <a href="#" class="date">November 2023</a> <br>
                     <a href="" class="company"><span class="rip">Rippling connects Latent to simplify employee travel and immigration</span></a> <a href="#"><span class="rip_icon"><img src="assets/images/resources/rippling.webp" alt=""></span></a>
                 </div>
-
+<<<<<<< HEAD
                 <div class="each_news">
                     <a href="#" class="date">November 2023</a> <br>
                     <a href="" class="company"><span class="rip">Rippling connects Latent to simplify employee travel and immigration</span></a> <a href="#"><span class="rip_icon"><img src="assets/images/resources/rippling.webp" alt=""></span></a>
@@ -243,9 +264,11 @@
                     <a href="#" class="date">November 2023</a> <br>
                     <a href="" class="company"><span class="rip">Rippling connects Latent to simplify employee travel and immigration</span></a> <a href="#"><span class="rip_icon"><img src="assets/images/resources/rippling.webp" alt=""></span></a>
                 </div>
+=======
+>>>>>>> 0de138d7349eaeeeca68ccdc572de82855c05bd4
             </div>
         </div>
-    </section>
+    </section> -->
     <!--Start footer area-->  
     <?php include('./partials/footer.php') ?>
     <!--End footer area-->

@@ -22,7 +22,7 @@
                 Use our filter to see what visas we offer and what their basic requirements are
             </p>
         </div>
-        <div>
+        <div class="bit">
          <a href="eligbil.html"><button type="button" class="btn btn-outline-primary" hr>Check My Eligibility</button></a>
         </div>
     </div>

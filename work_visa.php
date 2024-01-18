@@ -124,73 +124,88 @@
     </div>
 </section>
 
-<section>
-    <h3>How It Works</h3>
-    <ul>
-        <li>
-            <span>
-                <div>Create An Account</div>
-                <p>Do an eligibility check, or pick a visa, or just sign up directly to create an account. Then you can see all the documents needed, questions you must answer, and fee payments for our services and to the government. If you have any questions, it is easy to contact our sales team or to schedule a call.</p>
+<section class="container pxs-4">
+    <h3 class="texts-2x">How It Works</h3>
+    <ul class="ulw">
+        <li class="io">
+            <span class="num">
+                1
+            </span>
+            <span class="flex-1w">
+                <div class="heeder">Create An Account</div>
+                <p class="para">Do an eligibility check, or pick a visa, or just sign up directly to create an account. Then you can see all the documents needed, questions you must answer, and fee payments for our services and to the government. If you have any questions, it is easy to contact our sales team or to schedule a call.</p>
             </span>
         </li>
 
-        <li>
-            <span>
-                <div>Eligibility Confirmation Before Payment</div>
+        <li class="io">
+            <span class="num">
+                2
+            </span>
+            <span class="flex-1w">
+                <div class="heeder">Eligibility Confirmation Before Payment</div>
                 <p>First you will answer a few questions to ensure you are eligible for the visa. Only if you are eligible will the payment unlock. Making payment assigns an immigration lawyer or regulated consultant to your application. We are transparent in our process and pricing, and clearly list all the fees and processing times for your visa. Read our Transparency Pledge. We use Stripe for credit or debit card payment processing, which is secure and encrypted.</p>
             </span>
         </li>
 
-        <li>
-            <span>
-                <div>Complete Your Application Online</div>
+        <li class="io">
+            <span class="num">
+                3
+            </span>
+            <span class="flex-1w">
+                <div class="heeder">Complete Your Application Online</div>
                 <p>You can complete as many of the application tasks you wish before payment. Take your time. Some visas require a lot of information, which requires answering questionnaires and uploading of documents. Our system ensures everything necessary is gathered depending on your situation - preventing errors and omissions - and saving you time.</p>
             </span>
         </li>
 
-        <li>
-            <span>
-                <div>Visa Preparation and Submission</div>
+        <li class="io">
+            <span class="num">
+                4
+            </span>
+            <span class="flex-1w">
+                <div class="heeder">Visa Preparation and Submission</div>
                 <p>Once all the tasks are completed, our experts will review your answers and start preparing your application so that the best case is best presented. Government fees are also due once the application is completed and we can correctly calculate the government fees due. After a final review by you, and by our experts, your application will be submitted! You will have peace of mind that only comes with an accurate application.</p>
             </span>
         </li>
 
-        <li>
-            <span>
-                <div>Approval and Renewals</div>
+        <li class="io">
+            <span class="num">
+                5
+            </span>
+            <span class="flex-1w">
+                <div class="heeder">Approval and Renewals</div>
                 <p>We notify you when your visa is approved! If there are any questions or rejections from the government, we will answer them and resubmit without any further fees from us. We securely store your immigration documents for 7 years and provide alerts well before any expiry dates. Renewing or taking the next step toward citizenship is easy when all your immigration history is in one place.</p>
             </span>
         </li>
     </ul>
 </section>
 
-<section>
+<section class="text0">
     <div class="flexs-container">
         <div class="flexs-item flexs-item-1">
-            <div>98%</div>
-            <div>Success Rate</div>
+            <div class="pop">98%</div>
+            <div class="pop2">Success Rate</div>
         </div>
         <div class="flexs-item flexs-item-2">
-            <div>Expert Review</div>
-            <div>Our experienced, regulated immigration consultants review and finalize all applications.</div>
+            <div class="pap"><i class="bi bi-patch-check"></i>Expert Review</div>
+            <div class="pap2">Our experienced, regulated immigration consultants review and finalize all applications.</div>
         </div>
         <div class="flexs-item flexs-item-3">
-            <div>Lower Cost</div>
-            <div>Our technology keeps cost much lower than traditional law firms.</div>
+            <div class="pap"><i class="bi bi-coin"></i>Lower Cost</div>
+            <div class="pap2">Our technology keeps cost much lower than traditional law firms.</div>
         </div>
         <div class="flexs-item flexs-item-4">
-            <div>Faster and More Accurate</div>
-            <div>Our software is changing immigration, but human support is always available.</div>
+            <div class="pap"><i class="bi bi-lightning-charge"></i>Faster and More Accurate</div>
+            <div class="pap2">Our software is changing immigration, but human support is always available.</div>
         </div>
     </div>
 </section>
 
 <section>
-    <div>
-        <h5>Required Documents</h5>
-        <p>Some documents you will need to provide, and some documents we may prepare for you.</p>
+    <div class="pax">
+        <h5 class="tex">Required Documents</h5>
+        <p class="tex1">Some documents you will need to provide, and some documents we may prepare for you.</p>
         <ul>
-            <li>No document is required for this visa</li>
+            <li class="tex2">No document is required for this visa</li>
         </ul>
     </div>
     <div>

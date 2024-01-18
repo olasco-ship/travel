@@ -12,7 +12,7 @@
 <?php include('./partials/nav.php') ?>
 
 <!--Start breadcrumb area-->     
-<section class="breadcrumb-area" style="background-image: url(assets/images/breadcrumb/breadcrumb-1.jpg);">
+<section class="breadcrumb-area" style="background-image: url(assets/images/resources/transformed.png);">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
@@ -43,29 +43,30 @@
                 <div class="blog-post">
                     <!--Start Single blog Style1-->
                     <div class="single-blog-style1 style1instyle3 wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
-                        <div class="img-holder">
+                        <!-- <div class="img-holder">
                             <div class="inner">
                                 <img src="assets/images/blog/blog-v4-1.jpg" alt="Awesome Image">
                             </div>
                             <div class="date-box">
                                 <h3>24<br><span>JUNE</span></h3>
                             </div>
-                        </div> 
+                        </div>  -->
                         <div class="text-holder">
                             <ul class="meta-info">
-                                <li><span class="flaticon-user thm-clr"></span><a href="#">By admin</a></li>
-                                <li><span class="flaticon-open-archive thm-clr"></span><a href="#">Immigration Visa</a></li>
-                                <li><span class="flaticon-conversation thm-clr"></span><a href="#">02</a></li>
+                                <div class='sk-ww-rss-feed' data-embed-id='25347990'></div><script src='https://widgets.sociablekit.com/rss-feed/widget.js' async defer></script>
+                                <!-- <li><span class="flaticon-user thm-clr"></span><a href="#">By admin</a></li>
+                                <li><span class="flaticon-open-archive thm-clr"></span><a href="https://rss.app/explore/search?feed=ty6ixRU9YUEbttte&title=immigration">Immigration Visa</a></li>
+                                <li><span class="flaticon-conversation thm-clr"></span><a href="#">02</a></li> -->
                             </ul>
-                            <h3><a href="blog-single.html">How is the best Country to Immigrate with Family?</a></h3>
-                            <div class="text">
+                            <!-- <h3><a href="blog-single.html">How is the best Country to Immigrate with Family?</a></h3> -->
+                            <!-- <div class="text">
                                 <p>We provides the simplest solution for processing your all types of visa. Say goodbye to endless hassles and confusions.</p>
-                            </div>
+                            </div -->>
                         </div>   
                     </div>
                     <!--End Single blog Style1-->
                     <!--Start Single blog Style1-->
-                    <div class="single-blog-style1 style1instyle3 wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
+                    <!-- <div class="single-blog-style1 style1instyle3 wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                         <div class="img-holder">
                             <div class="inner">
                                 <img src="assets/images/blog/blog-v4-2.jpg" alt="Awesome Image">
@@ -85,10 +86,10 @@
                                 <p>We provides the simplest solution for processing your all types of visa. Say goodbye to endless hassles and confusions.</p>
                             </div>
                         </div>   
-                    </div>
+                    </div> -->
                     <!--End Single blog Style1-->
                     <!--Start Single blog Style1-->
-                    <div class="single-blog-style1 style1instyle3 wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
+                    <!-- <div class="single-blog-style1 style1instyle3 wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                         <div class="img-holder">
                             <div class="inner">
                                 <img src="assets/images/blog/blog-v4-3.jpg" alt="Awesome Image">
@@ -108,10 +109,10 @@
                                 <p>We provides the simplest solution for processing your all types of visa. Say goodbye to endless hassles and confusions.</p>
                             </div>
                         </div>   
-                    </div>
+                    </div> -->
                     <!--End Single blog Style1-->
                     <!--Start Single blog Style1-->
-                    <div class="single-blog-style1 style1instyle3 wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
+                    <!-- <div class="single-blog-style1 style1instyle3 wow fadeInLeft" data-wow-delay="100ms" data-wow-duration="1500ms">
                         <div class="img-holder">
                             <div class="inner">
                                 <img src="assets/images/blog/blog-v4-4.jpg" alt="Awesome Image">
@@ -131,7 +132,7 @@
                                 <p>We provides the simplest solution for processing your all types of visa. Say goodbye to endless hassles and confusions.</p>
                             </div>
                         </div>   
-                    </div>
+                    </div> -->
                     <!--End Single blog Style1-->
                 </div>
                 <div class="row">
@@ -161,7 +162,7 @@
                     </div>
                     <!--End single sidebar-->
                     <!--Start sidebar categories Box-->
-                    <div class="single-sidebar wow fadeInUp animated" data-wow-delay="0.3s" data-wow-duration="1200ms">
+                    <!-- <div class="single-sidebar wow fadeInUp animated" data-wow-delay="0.3s" data-wow-duration="1200ms">
                         <div class="title">
                             <h3>Categories</h3>
                         </div>
@@ -174,10 +175,10 @@
                                 <li><a href="#">Recorces <span>(7)</span></a></li>
                             </ul>
                         </div>
-                    </div>
+                    </div> -->
                     <!--End sidebar categories Box-->
                     <!--Start single sidebar-->
-                    <div class="single-sidebar wow fadeInUp animated" data-wow-delay="0.5s" data-wow-duration="1200ms">
+                    <!-- <div class="single-sidebar wow fadeInUp animated" data-wow-delay="0.5s" data-wow-duration="1200ms">
                         <div class="title">
                             <h3>Recent Post</h3>
                         </div>
@@ -190,8 +191,8 @@
                                     </div>    
                                 </div>
                                 <div class="title-box">
-                                    <h4><a href="#">How is the best Country to Immigrate with Family?</a></h4>
-                                    <div class="date">24 June 2020</div>
+                                    <div class='sk-ww-rss-feed' data-embed-id='25347990'></div><script src='https://widgets.sociablekit.com/rss-feed/widget.js' async defer></script>
+                                    
                                 </div>
                             </li>
                             <li>
@@ -223,7 +224,7 @@
                     </div>
                     <!--End single sidebar-->
                     <!--Start single sidebar-->
-                    <div class="single-sidebar wow fadeInUp animated" data-wow-delay="0.7s" data-wow-duration="1200ms">
+                    <!-- <div class="single-sidebar wow fadeInUp animated" data-wow-delay="0.7s" data-wow-duration="1200ms">
                         <div class="top">
                             <div class="title">
                                 <h3>Instagram</h3>
@@ -295,7 +296,7 @@
                             </li>
                             
                         </ul>   
-                    </div>
+                    </div> --> 
                     <!--End single sidebar-->
                     <!--Start single sidebar-->
                     <div class="single-sidebar last-child wow fadeInUp animated" data-wow-delay="0.7s" data-wow-duration="1200ms">
