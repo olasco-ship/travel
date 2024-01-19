@@ -38,7 +38,7 @@
                 <li> <i class="bi bi-check2"></i>Access to regulated immigration Consultant</li>
                 <li> <i class="bi bi-check2"></i>Exclusive settlement services</li>
             </ul>
-            <a href="canada_filter.php"><button class="canada_btn_red">View U.S Visas</button></a>
+            <a href="us_filter.php"><button class="canada_btn_red">View U.S Visas</button></a>
             <button class="canada_btn">About the U.S</button>
         </div>
 

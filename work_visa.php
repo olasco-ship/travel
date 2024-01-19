@@ -104,11 +104,11 @@
 
         <div>
             <ul>
-                <li><i class="bi bi-check2"></i><span>Quick and easy online application</span></li>
-                <li><i class="bi bi-check2"></i><span>Preparation of submission package</span></li>
-                <li><i class="bi bi-check2"></i><span>Expert review and representation</span></li>
-                <li><i class="bi bi-check2"></i><span>$1 million in insurance</span></li>
-                <li><i class="bi bi-check2"></i><span>Secure encrypted document storage</span></li>
+                <li class="lio"><i class="bi bi-check2"></i><span>Quick and easy online application</span></li>
+                <li class="lio"><i class="bi bi-check2"></i><span>Preparation of submission package</span></li>
+                <li class="lio"><i class="bi bi-check2"></i><span>Expert review and representation</span></li>
+                <li class="lio"><i class="bi bi-check2"></i><span>$1 million in insurance</span></li>
+                <li class="lio"><i class="bi bi-check2"></i><span>Secure encrypted document storage</span></li>
             </ul>
         </div>
         <div>
