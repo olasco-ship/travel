@@ -47,7 +47,7 @@
                     <div class="header-social-link style2">
                         <ul>
                             <li>
-                                 <a href="#">
+                                 <a href="visitor_visa_form.php">
                                  <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
                                  </a>
                             </li>
@@ -113,7 +113,7 @@
         </div>
         <div>
             <div class="img-holder">
-                <a href="#">
+                <a href="visitor_visa_form.php">
                     <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
                 </a>
                 <a href="eligbil.html">
@@ -218,8 +218,8 @@
             <div class="col-6 col-md-4">
                 <div class="single-select-country">
                     <div>
-                        <a href="#">
-                            <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
+                        <a href="visitor_visa_form.php">
+                            <button type="button" class="btn btn-primary" href="visitor_visa_form.php">Book A Consultation</button> 
                         </a>
                         <a href="eligbil.html">
                             <button type="button" class="btn btn-outline-primary">Check My Eligibility</button> 

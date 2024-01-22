@@ -1,0 +1,1 @@
+<iframe id="ab-student-intake-form" src="https://www.applyboard.com/partners/381425/intake-form" style="border: none;" width="100%"></iframe> <script>var iframe = document.getElementById("ab-student-intake-form");window.addEventListener("message", (e) => {let message = e.data;iframe.style.height = (message.height * 1.12) + "px";},false);</script>

@@ -47,7 +47,7 @@
                     <div class="header-social-link style2">
                         <ul>
                             <li>
-                                <a href="https://www.applyboard.com/partners/381425/intake-form">
+                                <a href="study_visa_form.php">
                                 <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
                                 </a>
                             </li>
@@ -113,7 +113,7 @@
         </div>
         <div>
             <div class="img-holder">
-                         <a href="https://www.applyboard.com/partners/381425/intake-form">
+                         <a href="study_visa_form.php">
                             <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
                         </a>
                 <a href="eligbil.html">
@@ -218,7 +218,7 @@
             <div class="col-6 col-md-4">
                 <div class="single-select-country">
                     <div>
-                        <a href="https://www.applyboard.com/partners/381425/intake-form">
+                        <a href="study_visa_form.php">
                             <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
                         </a>
                         <a href="eligbil.html">

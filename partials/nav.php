@@ -23,21 +23,15 @@ $pageName = substr($_SERVER['SCRIPT_NAME'], strrpos($_SERVER['SCRIPT_NAME'], "/"
                     <div class="header-social-link style2">
                         <ul>
                             <li>
-                                 <a href="login.php">
+                                 
                                  <button type="button" class="btn btn-primary" href="#">Log In</button> 
-                                 </a>
+                                 
                             </li>
                             <li>
                                 <a href="sign-up.php">
                                 <button type="button" class="btn btn-outline-primary">Sign Up</button> 
                                 </a>
                             </li>
-                            <!-- <li>
-                                <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-                            </li>
-                            <li>
-                                <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a> 
-                            </li> -->
                         </ul>
                     </div>
                     
