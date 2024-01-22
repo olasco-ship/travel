@@ -27,16 +27,16 @@
 <section>
     <nav class="navbar bg-primary1 navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
     <div>
-        <a style="color: white;" class="navbar-brand" href="#">General Information</a>
-        <a style="color: white;" class="navbar-brand" href="#">Pricing</a>
-        <a style="color: white;" class="navbar-brand" href="#">How It Works</a>
-        <a style="color: white;" class="navbar-brand" href="#">Success Rate</a>
-        <a style="color: white;" class="navbar-brand" href="#">Required Documents</a>
+        <a style="color: white;" class="navbar-brand" href="#section1">General Information</a>
+        <a style="color: white;" class="navbar-brand" href="#section2">Pricing</a>
+        <a style="color: white;" class="navbar-brand" href="#section3">How It Works</a>
+        <a style="color: white;" class="navbar-brand" href="#section4">Success Rate</a>
+        <a style="color: white;" class="navbar-brand" href="#section5">Required Documents</a>
     </div>
     </nav>
 </section>
 
-<section class="container mt-5">
+<section class="container mt-5" id="section1">
 <div class="header-top1">
         <div>
             <div class="outer-box clearfix">
@@ -91,7 +91,7 @@
     </div>
 </section>
 
-<section class="bg-red pys-10">
+<section class="bg-red pys-10" id="section2">
     <div class="container columns-3">
         <div>
             <h3>Pricing</h3>
@@ -104,11 +104,11 @@
 
         <div>
             <ul>
-                <li class="lio"><i class="bi bi-check2"></i><span>Quick and easy online application</span></li>
-                <li class="lio"><i class="bi bi-check2"></i><span>Preparation of submission package</span></li>
-                <li class="lio"><i class="bi bi-check2"></i><span>Expert review and representation</span></li>
-                <li class="lio"><i class="bi bi-check2"></i><span>$1 million in insurance</span></li>
-                <li class="lio"><i class="bi bi-check2"></i><span>Secure encrypted document storage</span></li>
+                <li class="lio disabled"><i class="bi bi-check2"></i><span>Quick and easy online application</span></li>
+                <li class="lio disabled"><i class="bi bi-check2"></i><span>Preparation of submission package</span></li>
+                <li class="lio disabled"><i class="bi bi-check2"></i><span>Expert review and representation</span></li>
+                <li class="lio disabled"><i class="bi bi-check2"></i><span>$1 million in insurance</span></li>
+                <li class="lio disabled"><i class="bi bi-check2"></i><span>Secure encrypted document storage</span></li>
             </ul>
         </div>
         <div>
@@ -124,10 +124,10 @@
     </div>
 </section>
 
-<section class="container pxs-4">
+<section class="container pxs-4" id="section3">
     <h3 class="texts-2x">How It Works</h3>
     <ul class="ulw">
-        <li class="io">
+        <li class="io disabled">
             <span class="num">
                 1
             </span>
@@ -137,17 +137,17 @@
             </span>
         </li>
 
-        <li class="io">
+        <li class="io disabled">
             <span class="num">
                 2
             </span>
             <span class="flex-1w">
                 <div class="heeder">Eligibility Confirmation Before Payment</div>
-                <p>First you will answer a few questions to ensure you are eligible for the visa. Only if you are eligible will the payment unlock. Making payment assigns an immigration lawyer or regulated consultant to your application. We are transparent in our process and pricing, and clearly list all the fees and processing times for your visa. Read our Transparency Pledge. We use Stripe for credit or debit card payment processing, which is secure and encrypted.</p>
+                <p>First you will answer a few questions to ensure you are eligible for the visa. Only if you are eligible will the payment unlock. Making payment assigns an immigration lawyer or regulated consultant to your application. We are transparent in our process and pricing, and clearly list all the fees and processing times for your visa. Read our <a>Transparency Pledge</a>. We use Stripe for credit or debit card payment processing, which is secure and encrypted.</p>
             </span>
         </li>
 
-        <li class="io">
+        <li class="io disabled">
             <span class="num">
                 3
             </span>
@@ -157,7 +157,7 @@
             </span>
         </li>
 
-        <li class="io">
+        <li class="io disabled">
             <span class="num">
                 4
             </span>
@@ -167,7 +167,7 @@
             </span>
         </li>
 
-        <li class="io">
+        <li class="io disabled">
             <span class="num">
                 5
             </span>
@@ -179,7 +179,7 @@
     </ul>
 </section>
 
-<section class="text0">
+<section class="text0" id="section4">
     <div class="flexs-container">
         <div class="flexs-item flexs-item-1">
             <div class="pop">98%</div>
@@ -200,7 +200,7 @@
     </div>
 </section>
 
-<section>
+<section id="section5">
     <div class="pax">
         <h5 class="tex">Required Documents</h5>
         <p class="tex1">Some documents you will need to provide, and some documents we may prepare for you.</p>

@@ -8,7 +8,7 @@
 }
 
 .head1 {
-  background-color: rgb(18, 111, 250);
+  background-color: #ff0100;
   text-align: center;
   padding: 3rem 2rem;
   color: white;
@@ -17,9 +17,11 @@
   margin-top: 1%;
   width: 30%;
   margin-left: 34%;
+  font-size: 1.125rem;
 }
 .QA {
   font-size: 46px;
+  color: white;
 }
 /* input {
   width: 45%;
@@ -32,13 +34,16 @@
 
 .questions {
   margin-top: 5%;
-  margin-left: 3%;
+  margin-left: 1%;
   display: flex;
   flex-direction: row;
   gap: 3%;
 }
 .question_right {
   width: 100%;
+}
+.question_left {
+  width: 30%;
 }
 .unto {
   margin-top: 10%;
@@ -102,4 +107,83 @@ li:hover {
 }
 .show {
   display: block;
+}
+
+.text00 {
+  --tw-text-opacity: 1;
+  color: rgb(9 0 63 / var(--tw-text-opacity));
+  padding-right: 4rem;
+  padding-left: 1rem;
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+  border-width: 1px;
+  width: 50%;
+  margin-top: 2rem;
+}
+
+.ic {
+  cursor: pointer;
+}
+
+.it {
+  align-items: center;
+  display: flex;
+}
+
+.al {
+  vertical-align: middle;
+  margin-left: 0.25rem;
+  font-size: 1rem;
+}
+
+.al2 {
+  vertical-align: middle;
+}
+
+.over1 {
+  overflow: hidden;
+  max-height: 100%;
+  margin-top: 0.75rem;
+}
+
+.tem {
+  --tw-text-opacity: 1;
+  color: rgb(0 97 233 / var(--tw-text-opacity));
+  padding-left: 1rem;
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+  --tw-border-opacity: 1;
+  border-color: rgb(0 97 233 / var(--tw-border-opacity));
+  border-style: solid;
+  border-top-width: 0;
+  border-right-width: 0;
+  border-left-width: 2px;
+  border-bottom-width: 0;
+  overflow: auto;
+  cursor: pointer;
+  margin-left: 0.625rem;
+}
+
+.tem1 {
+  padding-left: 1rem;
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+  --tw-border-opacity: 1;
+  border-color: rgb(228 228 228 / var(--tw-border-opacity));
+  border-style: solid;
+  border-top-width: 0;
+  border-right-width: 0;
+  border-left-width: 2px;
+  border-bottom-width: 0;
+  overflow: auto;
+  cursor: pointer;
+  margin-left: 0.625rem;
+}
+
+.fon {
+  font-weight: 600;
+  line-height: 1.75rem;
+  font-size: 1.125rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
 }

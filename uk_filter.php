@@ -14,18 +14,18 @@
 
     <section class="head">
     <div class="first">
-            <a href="#"><span class="text">Visas</span></a><span class="icon"><i class="bi bi-chevron-right"></i></span><a href="#"><span class="text">USA</span></a> <span class="icon"><i class="bi bi-chevron-right"></i></span><a href="#"><span class="text">List</span></a>
+            <a href="#"><span class="text">Visas</span></a><span class="icon"><i class="bi bi-chevron-right"></i></span><a href="#"><span class="text">Canada</span></a> <span class="icon"><i class="bi bi-chevron-right"></i></span><a href="#"><span class="text">List</span></a>
         </div>
         <div class="row">
-            <div class="second">
-                <h3>Find the Right U.S.A visa</h3>
-                <p>
-                    Use our filter to see what visas we offer and what their basic requirements are
-                </p>
-            </div>
-            <div class="bit">
-            <a href="eligbil.html"><button type="button" class="btn btn-outline-primary" hr>Check My Eligibility</button></a>
-            </div>
+        <div class="second">
+            <h3>Find the Right U.K visa</h3>
+            <p>
+                Use our filter to see what visas we offer and what their basic requirements are
+            </p>
+        </div>
+        <div class="bit">
+         <a href="eligbil.html"><button type="button" class="btn btn-outline-primary" hr>Check My Eligibility</button></a>
+        </div>
         </div>
     </section>
     <section class="main">
@@ -46,6 +46,7 @@
                 <p>Job offer needed</p>
                 <div class="rad"><span><input type="radio" name="select" id="Yes"></span>Yes</div>
                 <div class="rad"><span><input type="radio" name="select" id="No"></span>No</div>
+                
 
                 <p>Net Worth in USDT</p>
                 <div class="rag"><span><input type="range" min="0" max="1000000" value="400000" id="slider"></span> <span class="value">US$400,000</span></div>
@@ -53,20 +54,20 @@
         </div>
         <div class="right">
                 <div class="single ">
-                    <h4><a class="qq" href="us_visitor_visa.php">Visit Visa</a></h4>
+                    <h4><a class="qq" href="uk_visitor_visa.php">Visit Visa</a></h4>
                     <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                     <span class="tiny visit">visit</span>
                 </div>
         
             <div class="single ">
-                <h4><a class="qq" href="us_study_visa.php">Study Visa</a></h4>
+                <h4><a class="qq" href="uk_study_visa.php">Study Visa</a></h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny study"> Study</span>
 
             </div>
 
             <div class="single ">
-                <h4><a class="qq" href="us_work_visa.php">Work Visa</a></h4>
+                <h4><a class="qq" href="uk_work_visa.php">Work Visa</a></h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny work">work</span>
 
@@ -74,7 +75,7 @@
 
 
             <div class="single ">
-                <h4><a class="qq" href="us_immigrant_visa.php">Immigration Visa</a></h4>
+                <h4><a class="qq" href="uk_immigrant_visa.php">Immigration Visa</a></h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
                 <span class="tiny immigrate">Immigrate</span> <span class="tiny">Net worth 20K </span>
 

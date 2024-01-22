@@ -28,8 +28,8 @@
                         <h2 style="color: white; font-weight: 100px; font-size: 75px; font-family: Roboto; line-height: 80px;">Canada Immigration<br>
                             Consultant</h2>
                         <div class="btns-box">
-                            <a class="btn-one" href="#"><span class="txt">Check Eligibility</span></a>
-                            <a class="btn-one" href="#"><span class="txt">Search All Visas</span></a>
+                            <a class="btn-one" href="eligbil.html"><span class="txt">Check Eligibility</span></a>
+                            <a class="btn-one" href="visas.php"><span class="txt">Search All Visas</span></a>
                         </div>
                     </div>
                 
@@ -69,8 +69,8 @@
                         <h3>High-Class Professionals</h3>
                         <h2>We Are Most Trusted<br> Immigration Agency</h2>
                         <div class="btns-box">
-                            <a class="btn-one" href="#"><span class="txt">Check Eligibility</span></a>
-                            <a class="btn-one" href="#"><span class="txt">Search All Visas</span></a>
+                            <a class="btn-one" href="eligbil.html"><span class="txt">Check Eligibility</span></a>
+                            <a class="btn-one" href="visas.php"><span class="txt">Search All Visas</span></a>
                         </div>
                     </div>
 
@@ -122,7 +122,7 @@
                     <div class="text-holder">
                         <h3>United States</h3>
                         <p>My Destination is United States </p>
-                        <a href="#">Read More<span class="flaticon-right"></span></a>
+                        <a href="us_filter.php">Read More<span class="flaticon-right"></span></a>
                     </div>    
                 </div>    
             </div>
@@ -136,7 +136,7 @@
                     <div class="text-holder">
                         <h3>Canada</h3>
                         <p>My Destination is Canada</p>
-                        <a href="#">Read More<span class="flaticon-right"></span></a>
+                        <a href="canada_filter.php">Read More<span class="flaticon-right"></span></a>
                     </div>    
                 </div>    
             </div>
@@ -144,8 +144,23 @@
         </div>
         <div class="row">
             <div class="col-xl-12">
+            <div class="single-select-country">
+                    <div class="img-holder">
+                        <img src="assets/images/resources/Canada_Flag-.png" alt="Awesome Image">
+                    </div>
+                    <div class="text-holder">
+                        <h3>U.K</h3>
+                        <p>My Destination is U.K</p>
+                        <a href="uk_filter.php">Read More<span class="flaticon-right"></span></a>
+                    </div>    
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xl-12">
                 <div class="view-all-country-button text-center">
-                    <p>Challenges are just opportunities in disguise. <a href="#">View all country!</a></p>
+                    <p>Challenges are just opportunities in disguise. <a href="visas.php">View all country!</a></p>
                 </div>
             </div>
         </div>
@@ -217,10 +232,11 @@
             <!--End Single select Country-->
             <!--Start Single select Country-->
             <div class="col-6 col-md-4">
-                <div class="single-select-country">
+                <div class="single1-select-country">
                     <div class="img-holder">
-                    <button type="button" class="btn btn-outline-primary">Canada Visas</button>
-                    <button type="button" class="btn btn-outline-primary">U.S Visas</button>
+                    <a href="canada_filter.php"><button type="button" class="btn btn-outline-primary">Canada Visas</button></a>
+                    <a href="us_filter.php"><button type="button" class="btn btn-outline-primary">U.S Visas</button></a>
+                    <a href="uk_filter.php"><button type="button" class="btn btn-outline-primary">U.K Visas</button></a>
                     </div>    
                 </div>    
             </div>

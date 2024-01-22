@@ -249,6 +249,7 @@
   font-size: 1rem;
   line-height: 1.5rem;
   font-weight: 400;
+  margin-left: 2%;
 }
 
 .io {
@@ -360,4 +361,148 @@
 
 .lio {
   list-style: none;
+}
+
+.single1-select-country {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 570px;
+  width: 100%;
+  margin: 0 auto 30px;
+}
+.single1-select-country .img-holder {
+  position: relative;
+  display: block;
+  max-width: 320px;
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.disabled {
+  pointer-events: none;
+}
+
+.link {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.qq {
+  color: #000000 !important;
+}
+
+.usblue {
+  color: #ff0100;
+  font-weight: 600;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  margin-top: 0.25rem;
+}
+
+.ussec2 {
+  --tw-text-opacity: 1;
+  color: rgb(55 65 81 / var(--tw-text-opacity));
+  font-weight: 600;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  margin: 0;
+}
+
+.usa_left1 {
+  margin-left: 3%;
+  text-align: center;
+}
+
+.m30 {
+  margin-top: 3%;
+}
+
+.py10 {
+  padding-bottom: 2.5rem;
+  padding-top: 2.5rem;
+  --tw-bg-opacity: 1;
+  background-color: rgb(249 250 251 / var(--tw-bg-opacity));
+  --tw-border-opacity: 1;
+  border-bottom-color: rgb(229 231 235 / var(--tw-border-opacity));
+  --tw-border-opacity: 1;
+  border-top-color: rgb(229 231 235 / var(--tw-border-opacity));
+  border-bottom-width: 1px;
+  border-top-width: 1px;
+  width: 100%;
+}
+
+[data-sal|="slide"].sal-animate,
+body.sal-disabled [data-sal|="slide"] {
+  opacity: 1;
+  transform: none;
+}
+[data-sal][data-sal-easing="ease"] {
+  transition-timing-function: ease;
+}
+[data-sal][data-sal-delay="300"] {
+  transition-delay: 0.3s;
+}
+.px4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.gp4 {
+  gap: 1rem;
+  align-items: flex-start;
+  flex-direction: column;
+  display: flex;
+}
+
+.ustxt {
+  color: #ff0100;
+  font-weight: 500;
+  font-size: 1.25rem;
+}
+
+.usgrey {
+  --tw-text-opacity: 1;
+  color: rgb(75 85 99 / var(--tw-text-opacity));
+}
+
+[data-sal|="slide"].sal-animate,
+body.sal-disabled [data-sal|="slide"] {
+  opacity: 1;
+  transform: none;
+}
+[data-sal][data-sal-easing="ease"] {
+  transition-timing-function: ease;
+}
+[data-sal][data-sal-delay="300"] {
+  transition-delay: 0.3s;
+}
+
+.pxx4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  overflow-x: auto;
+  margin-bottom: 2.5rem;
+  margin-top: 2.5rem;
+}
+
+.gpp4 {
+  gap: 1rem;
+  min-width: -moz-max-content;
+  min-width: max-content;
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }

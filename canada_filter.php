@@ -1,6 +1,7 @@
 <head>
 	<title>Home One || Migrate || Immigration Service Responsive HTML 5 Template</title>
     <?php include('./partials/header.php') ?>
+    <link rel="stylesheet" href="./assets/css/star.css">
 </head>
 
 <body>
@@ -11,13 +12,13 @@
 <!-- Main header -->
 <?php include('./partials/nav.php') ?>
 
-<section class="head">
-        <div class="first">
+    <section class="head">
+    <div class="first">
             <a href="#"><span class="text">Visas</span></a><span class="icon"><i class="bi bi-chevron-right"></i></span><a href="#"><span class="text">Canada</span></a> <span class="icon"><i class="bi bi-chevron-right"></i></span><a href="#"><span class="text">List</span></a>
         </div>
-    <div class="row">    
+        <div class="row">
         <div class="second">
-            <h3>Find the Right Canadian visa</h3>
+            <h3>Find the Right Canada visa</h3>
             <p>
                 Use our filter to see what visas we offer and what their basic requirements are
             </p>
@@ -25,19 +26,17 @@
         <div class="bit">
          <a href="eligbil.html"><button type="button" class="btn btn-outline-primary" hr>Check My Eligibility</button></a>
         </div>
-    </div>
+        </div>
     </section>
-
-
     <section class="main">
         
-        <div class="left-canada">
+        <div class="left">
             <div class="top">
                 <input type="text" name="field" class="field" id="field" placeholder="Search by visa name.">
             </div>
             
-            <div class="bottom canada">
-                <div class="middle"><span class="fil">Filter By</span> <button id="reset">Reset Fitter</button></div>
+            <div class="bottom">
+                <div class="middle"><span class="fil">Filter By</span> <button id="reset">Reset Filter</button></div>
                 <p>I want to</p>
                 <div class="chec"><span><input type="checkbox" class="o checka"></span>Study</div>
                 <div class="chec"><span><input type="checkbox" class="o checkb"></span>Visit</div>
@@ -47,46 +46,45 @@
                 <p>Job offer needed</p>
                 <div class="rad"><span><input type="radio" name="select" id="Yes"></span>Yes</div>
                 <div class="rad"><span><input type="radio" name="select" id="No"></span>No</div>
+                
 
-                <p>Language Ability</p>
-                <div class="rad"><span><input type="radio" name="language" id="lan" class="no"></span>No English</div>
-                <div class="rad"><span><input type="radio" name="language" id="lan" class="ele"></span>Elementry English</div>
-                <div class="rad"><span><input type="radio" name="language" id="lan" class="limi"></span>Limited Working English</div>
-                <div class="rad"><span><input type="radio" name="language" id="lan" class="pro"></span>Professional Working English</div>
-                <div class="rad"><span><input type="radio" name="language" id="lan" class="full"></span>Full Professional English</div>
-                <div class="rad"><span><input type="radio" name="language" id="lan" class="native"></span>Native / Bilingual English</div>
-
-                <p>Net Worth in cad</p>
+                <p>Net Worth in USDT</p>
                 <div class="rag"><span><input type="range" min="0" max="1000000" value="400000" id="slider"></span> <span class="value">US$400,000</span></div>
             </div>
         </div>
         <div class="right">
-            <div class="single">
-                <h4>Work Visa</h4>
+                <div class="single ">
+                    <h4><a class="qq" href="canada_visitor_visa.php">Visit Visa</a></h4>
+                    <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
+                    <span class="tiny visit">visit</span>
+                </div>
+        
+            <div class="single ">
+                <h4><a class="qq" href="canada_study_visa.php">Study Visa</a></h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
-                  <span class="tiny immigrate">Immigrate</span>
+                <span class="tiny study"> Study</span>
 
             </div>
-            <div class="single">
-                <h4>Study Visa</h4>
+
+            <div class="single ">
+                <h4><a class="qq" href="canada_work_visa.php">Work Visa</a></h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
-                <span class="tiny immigrate">Immigrate </span> <span class="tiny">Net Worth 10K </span> <span class="tiny">CBL 4 </span><span class="tiny">Job offer needed </span>
+                <span class="tiny work">work</span>
 
             </div>
-            <div class="single">
-                <h4>Visit Visa</h4>
+
+
+            <div class="single ">
+                <h4><a class="qq" href="canada_immigrant_visa.php">Immigration Visa</a></h4>
                 <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
-                <span class="tiny immigrate">Immigrate</span><span class="tiny">Job offer needed</span><span class="tiny">CBL 7</span>
+                <span class="tiny immigrate">Immigrate</span> <span class="tiny">Net worth 20K </span>
 
             </div>
-            <div class="single">
-                <h4>Immigration Visa</h4>
-                <p>A licensed immigration lawyer from our net work of professionals wil provide you.....</p>
-                <span class="tiny immigrate">immigrate</span> <span class="tiny">Net worth 500k</span>
 
             </div>
         </div>
     </section>
+
     <!--Start footer area-->  
     <?php include('./partials/footer.php') ?>
     <!--End footer area-->

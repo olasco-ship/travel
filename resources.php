@@ -16,26 +16,55 @@
         <h3 class="QA">Question & Answers</h3>
         <p>We have collected the most frequently asked questions in one place</p>
     </div>
-    <input type="text" placeholder="Search">
+    <input class="text00" type="text" placeholder="Search">
 </section>
 
 <section class="questions">
     <div class="question_left">
-        <h4 class="main">Visa and immigration Program</h4>
-        <ul>
+        <div class="it">
+            <div class="ic">
+                <i class="bi bi-globe2"></i>
+                <span class="al">Visa and immigration Program</span>
+            </div>
+                <span class="al2"><i class="bi bi-chevron-down"></i></span>
+        </div>
+        
+        <div class="over1">
+            <div class="tem">
+                <span class="temp" style="font-size: 1.2rem;">Temporary Residence</span>
+            </div>
+
+            <div class="tem1">
+                <span class="perm" style="font-size: 1.2rem;">Permanent Residence</span>
+            </div>
+
+            <div class="tem1">
+                <span class="fam" style="font-size: 1.2rem;">Family Sponsorship</span>
+            </div>
+
+            <div class="tem1">
+                <span class="others" style="font-size: 1.2rem;">Other applications and services</span>
+            </div>
+        </div>
+        <div>
+            <div class="fon">
+                <a>
+                    <div></div>
+                </a>
+            </div>
             <li class="temp">Tempoary residence</li>
             <li class="perm">Permanent residence</li>
             <li class="fam">Family sponsorship</li>
             <li class="others">Other application and services</li>
-        </ul>
+        </div>
     </div>
     <div class="question_right">
         <section class="tempoary">
-            <h3 class="study next">Study Permit</h3>
-            <h3 class="visit next">Visitor Visa</h3>
-            <h3 class="ele next">Electronic travel authorization (ETA)</h3>
-            <h3 class="parent next">Parent Grand parent visa</h3>
-            <h3 class="work next">Work Permit</h3>
+            <h3 class="study1 next">Study Permit</h3>
+            <h3 class="visit1 next">Visitor Visa</h3>
+            <h3 class="ele1 next">Electronic travel authorization (ETA)</h3>
+            <h3 class="parent1 next">Parent Grand parent visa</h3>
+            <h3 class="work1 next">Work Permit</h3>
         </section>
 
         <section class="permanent hide">
@@ -58,12 +87,7 @@
 <!--    BEGINING OF THE TEMPOARY RECIDENCE Q&A -->
     <!--    STUDY PERMIT -->
 <section class="head sty hide">
-    <!-- SIR I LEFT IT FOR YOU SO IT CAN BE FASTER I DONT HAVE BOOTSTRAP ICON  -->
     <div class="bread_crumb"></div>
-    <div class="text">
-        <h3 class="QA">Study Permit</h3>
-    </div>
-    <input type="text" placeholder="Search">
 </section>
 
     <div class="question_right stypermit hide">
@@ -107,16 +131,10 @@
         <p>Was this article helpful</p>
         <button class="btn_yes">Yes</button> <button class="btn_no">No</button>
     </div>
+    
     <!--    VISITOR VISA    -->
-
-
     <section class="head vis hide">
-        <!-- SIR I LEFT IT FOR YOU SO IT CAN BE FASTER I DONT HAVE BOOTSTRAP ICON  -->
         <div class="bread_crumb"></div>
-        <div class="text">
-            <h3 class="QA">Visitor Visa</h3>
-        </div>
-        <input type="text" placeholder="Search">
     </section>
 
     <div class="question_right stypermit  vispermit hide">
@@ -144,6 +162,7 @@
             If you were given a visitor record, study or work permit, the expiry date is marked on the document.
         </p>
         <p>Was this article helpful</p>
+
         <button class="btn_yes">Yes</button> <button class="btn_no">No</button>
     </div>
 
@@ -153,16 +172,20 @@
             Each child needs to obtain their own visitor visa, but you can submit your visa application and your children's visa application(s) together.
         </p>
         <p>Was this article helpful</p>
+
         <button class="btn_yes">Yes</button> <button class="btn_no">No</button>
     </div>
+
     <div class="unto applies hide">
         <h1>Can I apply for a visitor visa while waiting for the decision of renouncement of my PR?</h1>
         <p>
             We will suggest you apply for a temporary resident visa once you have a decision of renouncement of the PR
         </p>
         <p>Was this article helpful</p>
+
         <button class="btn_yes">Yes</button> <button class="btn_no">No</button>
     </div>
+
     <div class="unto restores hide">
         <h1>I stayed in Canada longer than I was supposed to. How do I restore my status as a visitor?</h1>
         <p>
@@ -185,9 +208,12 @@
         <p>
             If it has been more than 90 days since your status expired, you can’t restore your status, and you must leave Canada
         </p>
+
         <p>Was this article helpful</p>
+
         <button class="btn_yes">Yes</button> <button class="btn_no">No</button>
     </div>
+
     <div class="unto uses hide">
         <h1>
             I used a temporary resident visa for a recent business visit to Canada. Can I use it for a holiday in Canada?</h1>
@@ -195,18 +221,15 @@
             If it is a multiple-entry visa and it has not expired, you can use it to enter Canada for both business and tourism. If it is a single-entry visa, you will need a new visa
         </p>
         <p>Was this article helpful</p>
+
         <button class="btn_yes">Yes</button> <button class="btn_no">No</button>
+
     </div>
 
     <!--    ()_ETA_()    -->
 
     <section class="head elec hide">
-        <!-- SIR I LEFT IT FOR YOU SO IT CAN BE FASTER I DONT HAVE BOOTSTRAP ICON  -->
         <div class="bread_crumb"></div>
-        <div class="text">
-            <h3 class="QA">Electronic Travel Authorization (ETA)</h3>
-        </div>
-        <input type="text" placeholder="Search">
     </section>
 
     <div class="question_right stypermit  elepermit hide">
@@ -228,12 +251,7 @@
 
 
         <section class="head par hide">
-            <!-- SIR I LEFT IT FOR YOU SO IT CAN BE FASTER I DONT HAVE BOOTSTRAP ICON  -->
             <div class="bread_crumb"></div>
-            <div class="text">
-                <h3 class="QA">Parent Grandparent Super Visa</h3>
-            </div>
-            <input type="text" placeholder="Search">
         </section>
     
         <div class="question_right stypermit  parpermit hide">
@@ -284,12 +302,7 @@
 
 
          <section class="head  wrk hide">
-            <!-- SIR I LEFT IT FOR YOU SO IT CAN BE FASTER I DONT HAVE BOOTSTRAP ICON  -->
             <div class="bread_crumb"></div>
-            <div class="text">
-                <h3 class="QA">Parent Grandparent Super Visa</h3>
-            </div>
-            <input type="text" placeholder="Search">
         </section>
     
         <div class="question_right stypermit  wrkpermit hide">
@@ -311,12 +324,7 @@
         <!--    British Columbia Provincial nominee program -->
 
     <section class="head brith hide">
-        <!-- SIR I LEFT IT FOR YOU SO IT CAN BE FASTER I DONT HAVE BOOTSTRAP ICON  -->
         <div class="bread_crumb"></div>
-        <div class="text">
-            <h3 class="QA">British Columbia Provincial nominee program</h3>
-        </div>
-        <input type="text" placeholder="Search">
     </section>
 
     <div class="question_right stypermit brit hide">
@@ -409,12 +417,7 @@
 <!--    EXPRESS VISA -->
 
     <section class="head exph hide">
-        <!-- SIR I LEFT IT FOR YOU SO IT CAN BE FASTER I DONT HAVE BOOTSTRAP ICON  -->
         <div class="bread_crumb"></div>
-        <div class="text">
-            <h3 class="QA">Express Entry</h3>
-        </div>
-        <input type="text" placeholder="Search">
     </section>
 
     <div class="question_right stypermit exp hide">
@@ -444,12 +447,7 @@
     <!--    START-UP VISA -->
 
     <section class="head strh hide">
-        <!-- SIR I LEFT IT FOR YOU SO IT CAN BE FASTER I DONT HAVE BOOTSTRAP ICON  -->
         <div class="bread_crumb"></div>
-        <div class="text">
-            <h3 class="QA">Start-up visa</h3>
-        </div>
-        <input type="text" placeholder="Search">
     </section>
 
     <div class="question_right stypermit str hide">
@@ -471,12 +469,7 @@
         <!--    IMMIGRATE  -->
 
         <section class="head immih hide">
-            <!-- SIR I LEFT IT FOR YOU SO IT CAN BE FASTER I DONT HAVE BOOTSTRAP ICON  -->
             <div class="bread_crumb"></div>
-            <div class="text">
-                <h3 class="QA">Immigrate as a self-employed person</h3>
-            </div>
-            <input type="text" placeholder="Search">
         </section>
     
         <div class="question_right stypermit immi hide">
@@ -497,12 +490,7 @@
         <!--    SPONSOR  -->
 
         <section class="head sponh hide">
-            <!-- SIR I LEFT IT FOR YOU SO IT CAN BE FASTER I DONT HAVE BOOTSTRAP ICON  -->
             <div class="bread_crumb"></div>
-            <div class="text">
-                <h3 class="QA">Sponsor your Parents and Grandparents</h3>
-            </div>
-            <input type="text" placeholder="Search">
         </section>
     
         <div class="question_right stypermit spon hide">

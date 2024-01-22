@@ -40,9 +40,9 @@
                             <h3>Countries</h3>
                         </div>
                         <ul class="countries-links">
-                            <li><a href="#">Canada</a></li>    
-                            <li><a href="#">United States</a></li>    
-                            <li><a href="#">United Kingdom</a></li>                
+                            <li><a href="canada_filter.php">Canada</a></li>    
+                            <li><a href="us_filter.php">United States</a></li>    
+                            <li><a href="uk_filter.php">United Kingdom</a></li>                
                         </ul>                     	  
                     </div>
                 </div>
@@ -54,13 +54,18 @@
                             <h3>Visas Types</h3>
                         </div>
                         <ul class="visa-type-links">
-                            <li><a href="#">Students Visa</a></li>    
-                            <li><a href="#">Business Visa</a></li>    
-                            <li><a href="#">Family Visa</a></li>    
-                            <li><a href="#">Travel Visa</a></li>    
-                            <li><a href="#">Work Visa</a></li>        
-                            <li><a href="#">Visitor Visa</a></li>        
-                            <li><a href="#">Migrate Visa</a></li>             
+                            <li><a href="canada_study_visa.php">Canada Study Visa</a></li>    
+                            <li><a href="canada_visitor_visa.php">Canada Visitor Visa</a></li>    
+                            <li><a href="canada_work_visa.php">Canada Work Visa</a></li>    
+                            <li><a href="canada_immigrant_visa.php">Canada Immigrant Visa</a></li>    
+                            <li><a href="us_study_visa.php">USA Study Visa</a></li>    
+                            <li><a href="us_visitor_visa.php">USA Visitor Visa</a></li>    
+                            <li><a href="us_work_visa.php">USA Work Visa</a></li>    
+                            <li><a href="us_immigrant_visa.php">USA Immigrant Visa</a></li>
+                            <li><a href="uk_study_visa.php">U.K Study Visa</a></li>    
+                            <li><a href="uk_visitor_visa.php">U.K Visitor Visa</a></li>    
+                            <li><a href="uk_work_visa.php">U.K Work Visa</a></li>    
+                            <li><a href="uk_immigrant_visa.php">U.K Immigrant Visa</a></li>             
                         </ul>                     	  
                     </div>
                 </div>

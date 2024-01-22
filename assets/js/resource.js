@@ -4,11 +4,11 @@ const tempLiEl = document.querySelector(".temp");
 const permLiEl = document.querySelector(".perm");
 const famLiEl = document.querySelector(".fam");
 const OthLiEl = document.querySelector(".others");
-const studyHeL = document.querySelector(".study");
-const visitEl = document.querySelector(".visit");
-const parentEl = document.querySelector(".parent");
-const eleEl = document.querySelector(".ele");
-const workEl = document.querySelector(".work");
+const study1HeL = document.querySelector(".study1");
+const visit1El = document.querySelector(".visit1");
+const parent1El = document.querySelector(".parent1");
+const ele1El = document.querySelector(".ele1");
+const work1El = document.querySelector(".work1");
 const styHead = document.querySelector(".sty");
 const styEl = document.querySelector(".stypermit");
 // For Permanent Side
@@ -67,31 +67,31 @@ othersEl.onclick = () => {
   otherEl.classList.remove("hide");
 };
 //   RIGHT SIDE SCRIPT
-studyHeL.onclick = () => {
+study1HeL.onclick = () => {
   headEl.classList.add("hide");
   questEl.classList.add("hide");
   styHead.classList.remove("hide");
   styEl.classList.remove("hide");
 };
-visitEl.onclick = () => {
+visit1El.onclick = () => {
   headEl.classList.add("hide");
   questEl.classList.add("hide");
   visHead.classList.remove("hide");
   visEl.classList.remove("hide");
 };
-eleEl.onclick = () => {
+ele1El.onclick = () => {
   headEl.classList.add("hide");
   questEl.classList.add("hide");
   eleHead.classList.remove("hide");
   elecEl.classList.remove("hide");
 };
-parentEl.onclick = () => {
+parent1El.onclick = () => {
   headEl.classList.add("hide");
   questEl.classList.add("hide");
   parHead.classList.remove("hide");
   parEl.classList.remove("hide");
 };
-workEl.onclick = () => {
+work1El.onclick = () => {
   headEl.classList.add("hide");
   questEl.classList.add("hide");
   wrkHead.classList.remove("hide");

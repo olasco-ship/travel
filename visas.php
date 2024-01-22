@@ -22,28 +22,41 @@
         <div class="canada_right">
             <h3 class="blue right_head">Canada</h3>
             <p>Canada chooses immigrants based on their economic contributions, humanitarian reasons and the need to reunite families. In additional, Canada admits millions of tourists, business visitors, international students and skilled workers each year</p>
-            <ul>
+            <ul class="lio">
                 <li> <i class="bi bi-check2"></i>Access to regulated immigration Consultant</li>
                 <li> <i class="bi bi-check2"></i>Exclusive settlement services</li>
             </ul>
             <a href="canada_filter.php"><button class="canada_btn_red">View Canadian Visas</button></a>
-            <button class="canada_btn">About Canada</button>
         </div>
     </section>
     <section class="canada_visa">
     <div class="canada_right usa_left">
             <h3 class="blue right_head">United States</h3>
             <p>The United States is home to the highest number of immigrants in the world. The U.S. prioritizes humanitarian, family reunification, and economic contributions and creates immigrant pathways for those seeking to work in the U.S.</p>
-            <ul>
+            <ul class="lio">
                 <li> <i class="bi bi-check2"></i>Access to regulated immigration Consultant</li>
                 <li> <i class="bi bi-check2"></i>Exclusive settlement services</li>
             </ul>
             <a href="us_filter.php"><button class="canada_btn_red">View U.S Visas</button></a>
-            <button class="canada_btn">About the U.S</button>
         </div>
 
         <div class="canada_left">
             <img src="assets/images/resources/usa_flag real.webp" alt="">
+        </div>
+    </section>
+
+    <section class="canada_visa">
+        <div class="canada_left">
+            <img src="assets/images/resources/city-with-canada-flag.webp" alt="">
+        </div>
+        <div class="canada_right">
+            <h3 class="blue right_head">U.K</h3>
+            <p>U.K chooses immigrants based on their economic contributions, humanitarian reasons and the need to reunite families. In additional, Canada admits millions of tourists, business visitors, international students and skilled workers each year</p>
+            <ul class="lio">
+                <li > <i class="bi bi-check2"></i>Access to regulated immigration Consultant</li>
+                <li> <i class="bi bi-check2"></i>Exclusive settlement services</li>
+            </ul>
+            <a href="uk_filter.php"><button class="canada_btn_red">View U.K Visas</button></a>
         </div>
     </section>
     <!--Start footer area-->  

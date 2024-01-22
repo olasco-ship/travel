@@ -181,3 +181,13 @@ select option {
   height: 580px;
 }
 /* HEIGHT WHEN I PRESS YES */
+
+:after,
+:before {
+  border: 0 solid #e5e7eb;
+  box-sizing: border-box;
+}
+:after,
+:before {
+  --tw-content: "";
+}
