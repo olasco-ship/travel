@@ -48,11 +48,11 @@
                         <ul>
                             <li>
                                  <a href="#">
-                                 <button type="button" class="btn btn-primary" href="#">Start an Application</button> 
+                                 <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
                                  </a>
                             </li>
                             <li>
-                                <a href="#">
+                                <a href="eligbil.html">
                                 <button type="button" class="btn btn-outline-primary">Check My Eligibility</button> 
                                 </a>
                             </li>
@@ -210,9 +210,9 @@
                 <div class="single-select-country">
                     <div>
                         <a href="#">
-                            <button type="button" class="btn btn-primary" href="#">Start an Application</button> 
+                            <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
                         </a>
-                        <a href="#">
+                        <a href="eligbil.html">
                             <button type="button" class="btn btn-outline-primary">Check My Eligibility</button> 
                         </a>
                     </div>    

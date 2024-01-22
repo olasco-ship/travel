@@ -16,40 +16,40 @@
         <div class="first">
             <a href="#"><span class="text">Visas</span></a>
             <span class="icon"><i class="bi bi-chevron-right"></i></span>
-            <a href="#"><span class="text">Canada</span></a> 
+            <a href="#"><span class="text">United Kingdom</span></a> 
             <span class="icon"><i class="bi bi-chevron-right"></i></span>
             <a href="#"><span class="text">List</span></a>
             <span class="icon"><i class="bi bi-chevron-right"></i></span>
-            <a href="#"><span class="text">Study Visa</span></a>
+            <a href="#"><span class="text">Visitor Visa</span></a>
         </div>
 </section>
 
 <section>
     <nav class="navbar bg-primary1 navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
     <div>
-        <a style="color: white;" class="navbar-brand" href="#">General Information</a>
-        <a style="color: white;" class="navbar-brand" href="#">Pricing</a>
-        <a style="color: white;" class="navbar-brand" href="#">How It Works</a>
-        <a style="color: white;" class="navbar-brand" href="#">Success Rate</a>
-        <a style="color: white;" class="navbar-brand" href="#">Required Documents</a>
+        <a style="color: white;" class="navbar-brand" href="#section1">General Information</a>
+        <a style="color: white;" class="navbar-brand" href="#section2">Pricing</a>
+        <a style="color: white;" class="navbar-brand" href="#section3">How It Works</a>
+        <a style="color: white;" class="navbar-brand" href="#section4">Success Rate</a>
+        <a style="color: white;" class="navbar-brand" href="#section5">Required Documents</a>
     </div>
     </nav>
 </section>
 
-<section class="container mt-5">
+<section class="container mt-5" id="section1">
 <div class="header-top1">
         <div>
             <div class="outer-box clearfix">
                 <div class="header-top-left pull-left">
-                   <h1>Study Visa</h1>
+                   <h1>Visitor Visa</h1>
                 </div>
                 <div class="header-top-right clearfix pull-right">
                     <div class="header-social-link style2">
                         <ul>
                             <li>
-                                <a href="https://www.applyboard.com/partners/381425/intake-form">
-                                <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
-                                </a>
+                                 <a href="#">
+                                 <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
+                                 </a>
                             </li>
                             <li>
                                 <a href="eligbil.html">
@@ -65,14 +65,14 @@
     </div> 
 
     <div>
-        <h6>Would you like to visit the Canada for business or recreational purposes?</h6><br>
+        <h6>Would you like to visit the U.K. for business or recreational purposes?</h6><br>
     </div>
 </section>
 
 <section class="container">
     <div>
-        <h6><span>This program is for people who are not from visa-exempt countries and want to enter the United States temporarily for business (B-1), for tourism (B-2), or for a combination of both purposes (B-1/B-2).</span></h6><br>
-        <h6><span>Citizens of visa-exempt countries can travel to the U.S. without a visa but may still need an Electronic Travel Authorization (eTA), which is different from a Visitor Visa. </span></h6><br>
+        <h6><span>This program is for people who are not from visa-exempt countries and want to enter the United Kingdom temporarily for business (B-1), for tourism (B-2), or for a combination of both purposes (B-1/B-2).</span></h6><br>
+        <h6><span>Citizens of visa-exempt countries can travel to the U.K. without a visa but may still need an Electronic Travel Authorization (eTA), which is different from a Visitor Visa. </span></h6><br>
         <h6><span>We recommend starting the application process as early as possible, as travel restrictions and lengthy consulate wait times for visa appointments may impact your travel plans.</span></h6>
         <h6><span>Check your eligibility now!</span></h6>
         
@@ -91,12 +91,12 @@
     </div>
 </section>
 
-<section class="bg-red pys-10">
+<section class="bg-red pys-10" id="section2">
     <div class="container columns-3">
         <div>
             <h3>Pricing</h3>
             <div class="pricing">
-                CA$
+                US$
                 <span>249</span>
             </div>
             <p>+ Government Fees</p>
@@ -104,21 +104,30 @@
 
         <div>
             <ul>
-                <li class="lio"><i class="bi bi-check2"></i><span>Quick and easy online application</span></li>
-                <li class="lio"><i class="bi bi-check2"></i><span>Preparation of submission package</span></li>
-                <li class="lio"><i class="bi bi-check2"></i><span>Expert review and representation</span></li>
-                <li class="lio"><i class="bi bi-check2"></i><span>$1 million in insurance</span></li>
-                <li class="lio"><i class="bi bi-check2"></i><span>Secure encrypted document storage</span></li>
+                <li class="lio disabled"><i class="bi bi-check2"></i><span>Quick and easy online application</span></li>
+                <li class="lio disabled"><i class="bi bi-check2"></i><span>Preparation of submission package</span></li>
+                <li class="lio disabled"><i class="bi bi-check2"></i><span>Expert review and representation</span></li>
+                <li class="lio disabled"><i class="bi bi-check2"></i><span>$1 million in insurance</span></li>
+                <li class="lio disabled"><i class="bi bi-check2"></i><span>Secure encrypted document storage</span></li>
             </ul>
         </div>
-
+        <div>
+            <div class="img-holder">
+                <a href="#">
+                    <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
+                </a>
+                <a href="eligbil.html">
+                    <button type="button" class="btn btn-outline-primary">Check My Eligibility</button> 
+                </a>
+            </div>
+        </div>
     </div>
 </section>
 
-<section class="container pxs-4">
+<section class="container pxs-4" id="section3">
     <h3 class="texts-2x">How It Works</h3>
     <ul class="ulw">
-        <li class="io">
+        <li class="io disabled">
             <span class="num">
                 1
             </span>
@@ -128,17 +137,17 @@
             </span>
         </li>
 
-        <li class="io">
+        <li class="io disabled">
             <span class="num">
                 2
             </span>
             <span class="flex-1w">
                 <div class="heeder">Eligibility Confirmation Before Payment</div>
-                <p>First you will answer a few questions to ensure you are eligible for the visa. Only if you are eligible will the payment unlock. Making payment assigns an immigration lawyer or regulated consultant to your application. We are transparent in our process and pricing, and clearly list all the fees and processing times for your visa. Read our Transparency Pledge. We use Stripe for credit or debit card payment processing, which is secure and encrypted.</p>
+                <p>First you will answer a few questions to ensure you are eligible for the visa. Only if you are eligible will the payment unlock. Making payment assigns an immigration lawyer or regulated consultant to your application. We are transparent in our process and pricing, and clearly list all the fees and processing times for your visa. Read our <a>Transparency Pledge</a>. We use Stripe for credit or debit card payment processing, which is secure and encrypted.</p>
             </span>
         </li>
 
-        <li class="io">
+        <li class="io disabled">
             <span class="num">
                 3
             </span>
@@ -148,7 +157,7 @@
             </span>
         </li>
 
-        <li class="io">
+        <li class="io disabled">
             <span class="num">
                 4
             </span>
@@ -158,7 +167,7 @@
             </span>
         </li>
 
-        <li class="io">
+        <li class="io disabled">
             <span class="num">
                 5
             </span>
@@ -170,7 +179,7 @@
     </ul>
 </section>
 
-<section class="text0">
+<section class="text0" id="section4">
     <div class="flexs-container">
         <div class="flexs-item flexs-item-1">
             <div class="pop">98%</div>
@@ -191,7 +200,7 @@
     </div>
 </section>
 
-<section>
+<section id="section5">
     <div class="pax">
         <h5 class="tex">Required Documents</h5>
         <p class="tex1">Some documents you will need to provide, and some documents we may prepare for you.</p>
@@ -209,7 +218,7 @@
             <div class="col-6 col-md-4">
                 <div class="single-select-country">
                     <div>
-                        <a href="https://www.applyboard.com/partners/381425/intake-form">
+                        <a href="#">
                             <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
                         </a>
                         <a href="eligbil.html">

@@ -16,11 +16,11 @@
         <div class="first">
             <a href="#"><span class="text">Visas</span></a>
             <span class="icon"><i class="bi bi-chevron-right"></i></span>
-            <a href="#"><span class="text">Canada</span></a> 
+            <a href="#"><span class="text">United Kingdom</span></a> 
             <span class="icon"><i class="bi bi-chevron-right"></i></span>
             <a href="#"><span class="text">List</span></a>
             <span class="icon"><i class="bi bi-chevron-right"></i></span>
-            <a href="#"><span class="text">Study Visa</span></a>
+            <a href="#"><span class="text">Visitor Visa</span></a>
         </div>
 </section>
 
@@ -65,14 +65,14 @@
     </div> 
 
     <div>
-        <h6>Would you like to visit the Canada for business or recreational purposes?</h6><br>
+        <h6>Would you like to visit the U.K. for business or recreational purposes?</h6><br>
     </div>
 </section>
 
 <section class="container">
     <div>
-        <h6><span>This program is for people who are not from visa-exempt countries and want to enter the United States temporarily for business (B-1), for tourism (B-2), or for a combination of both purposes (B-1/B-2).</span></h6><br>
-        <h6><span>Citizens of visa-exempt countries can travel to the U.S. without a visa but may still need an Electronic Travel Authorization (eTA), which is different from a Visitor Visa. </span></h6><br>
+        <h6><span>This program is for people who are not from visa-exempt countries and want to enter the United Kingdom temporarily for business (B-1), for tourism (B-2), or for a combination of both purposes (B-1/B-2).</span></h6><br>
+        <h6><span>Citizens of visa-exempt countries can travel to the U.K. without a visa but may still need an Electronic Travel Authorization (eTA), which is different from a Visitor Visa. </span></h6><br>
         <h6><span>We recommend starting the application process as early as possible, as travel restrictions and lengthy consulate wait times for visa appointments may impact your travel plans.</span></h6>
         <h6><span>Check your eligibility now!</span></h6>
         
@@ -96,7 +96,7 @@
         <div>
             <h3>Pricing</h3>
             <div class="pricing">
-                CA$
+                US$
                 <span>249</span>
             </div>
             <p>+ Government Fees</p>
@@ -111,7 +111,16 @@
                 <li class="lio"><i class="bi bi-check2"></i><span>Secure encrypted document storage</span></li>
             </ul>
         </div>
-
+        <div>
+            <div class="img-holder">
+                         <a href="https://www.applyboard.com/partners/381425/intake-form">
+                            <button type="button" class="btn btn-primary" href="#">Book A Consultation</button> 
+                        </a>
+                <a href="eligbil.html">
+                    <button type="button" class="btn btn-outline-primary">Check My Eligibility</button> 
+                </a>
+            </div>
+        </div>
     </div>
 </section>
 
