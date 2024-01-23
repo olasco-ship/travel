@@ -91,7 +91,7 @@
 }
 
 .single:hover {
-  border: 2px solid rgb(0, 140, 255);
+  border: 2px solid #ff0100;
 }
 .single h4 {
   margin-bottom: 8%;
@@ -130,14 +130,14 @@
 }
 
 .over {
-  border: 2px solid rgb(0, 140, 255);
+  border: 2px solid #ff0100;
 }
 
 .visit {
   color: rgb(230, 61, 245);
 }
 .work {
-  color: rgb(0, 60, 255);
+  color: #ff0100;
 }
 .study {
   color: green;
@@ -186,7 +186,7 @@ i {
   margin-top: 5%;
 }
 .second h3 {
-  color: rgb(0, 102, 255);
+  color: #ff0100;
   font-size: 38px;
   font-weight: 700;
 }
@@ -314,11 +314,11 @@ i {
 }
 .about_mid {
   margin-top: 10%;
-  border-top: 1px solid rgba(0, 149, 255, 0.47);
+  border-top: 1px solid #ff0100;
   padding-top: 8%;
-  border-bottom: 1px solid rgba(0, 149, 255, 0.47);
+  border-bottom: 1px solid #ff0100;
   padding-bottom: 8%;
-  border-top: 2px solid rgba(0, 149, 255, 0.47);
+  border-top: 2px solid #ff0100;
   padding-top: 8%;
 }
 
