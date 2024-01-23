@@ -91,6 +91,14 @@ button:active {
   margin-top: 2%;
   margin-left: 8%;
 }
+.nextsp {
+  color: white;
+  background-color: #ff0100;
+  padding: 8px 4rem;
+  margin-top: 2%;
+  margin-left: 8%;
+}
+
 .last {
   padding: 6px 24px;
 }
@@ -138,6 +146,9 @@ button:active {
 .No {
   padding: 6px 4rem;
 }
+.usdt {
+  margin: 8px;
+}
 /*   FOR JAVA SCRIPT */
 .hide {
   display: none;
@@ -179,6 +190,9 @@ select option {
 }
 .heightrd {
   height: 580px;
+}
+.heightd {
+  height: 760px;
 }
 /* HEIGHT WHEN I PRESS YES */
 

@@ -162,36 +162,51 @@ permitBtnYes.onclick = () => {
 stwBtnEl.forEach((btn) => {
   btn.onclick = () => {
     comingEl.classList.add("show");
-    spouseEl.classList.add("heightnnd");
-    spouseEl.classList.add("heightnrd");
+    spouseEl.classList.add("heightrd");
+    spouseEl.classList.add("heightrd");
     blue();
   };
 });
 comeBtnEl.forEach((come) => {
   come.onclick = () => {
     untoSpouseEl.classList.remove("hide");
+    spouseEl.classList.add("heightrd");
     blue();
   };
 });
 permitBtnNo.onclick = () => {
   untoSpouseEl.classList.add("hide");
   stwEl.classList.remove("hide");
-  spouseEl.classList.add("heightnnd");
+  spouseEl.classList.add("heightnd");
   blue();
 };
 spouseYesBtn.onclick = () => {
   permitEl.classList.add("show");
   untoSpouseEl.classList.add("hide");
-  spouseEl.classList.add("heightns");
+  spouseEl.classList.add("heightd");
   blue();
 };
 spousenoBtn.onclick = () => {
   untoSpouseEl.classList.remove("hide");
   permitEl.classList.remove("show");
   stwEl.classList.add("hide");
-  spouseEl.classList.remove("heightns");
+  spouseEl.classList.remove("heightrd");
   comingEl.classList.remove("show");
   blue();
+};
+
+//  NEXT BUTTON FOR 4TH QUESTION
+const NestoBtnEl = document.querySelectorAll(".nextsp");
+
+eachBtnEl.forEach((conv) => {
+  conv.onclick = () => {
+    NestoBtnEl.classList.remove("hide");
+    citizenEl.classList.add("heightrd");
+  };
+});
+NestoBtnEl.onclick = () => {
+  spouseEl.classList.remove("show");
+  EduEl.classList.add("show");
 };
 
 //  SCRIPT FOR EDUCATION
@@ -203,13 +218,13 @@ const graduationBtnEl = document.querySelectorAll(".grad");
 const nedBtnEl = document.querySelector(".nexted");
 
 untoSpouseEl.onclick = () => {
-  EduEl.classList.remove("hide");
-  spousEl.classList.add("hide");
+  spouseEl.classList.remove("show");
+  EduEl.classList.add("show");
 };
 
 EduElBtn.onclick = () => {
   currentEl.classList.add("show");
-  EduEl.classList.add("heightrd");
+  EduEl.classList.add("heightd");
   certificatetEl.classList.remove("hide");
   graduationEl.classList.remove("hide");
 };
@@ -226,13 +241,20 @@ const usdtBtnEl = document.querySelectorAll(".usdt");
 const letterSide = document.querySelector(".lastn");
 
 nedBtnEl.onclick = () => {
+  EduEl.classList.remove("show");
   netEl.classList.add("show");
-  EduEl.classList.add("hide");
+  netEl.classList.add("heightn");
 };
+
+// nedBtnEl.onclick = () => {
+//   netEl.classList.add("show");
+//   EduEl.classList.add("hide");
+// };
 
 usdtBtnEl.forEach((usd) => {
   usd.addEventListener("click", () => {
     letterSide.classList.add("show");
+    netEl.classList.add("heightnd");
   });
 });
 const letEl = document.querySelector(".letter");
@@ -241,4 +263,5 @@ letterSide.onclick = () => {
   console.log("hhhhh");
   letEl.classList.add("show");
   netEl.classList.remove("show");
+  letEl.classList.add("heightnd");
 };
